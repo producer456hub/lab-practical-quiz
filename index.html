@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Anatomy Lab Practical Prep</title>
+<style>
+  :root {
+    --bg: #fafafa;
+    --card: #fff;
+    --ink: #1a1a1a;
+    --muted: #666;
+    --accent: #2563eb;
+    --accent-hover: #1d4ed8;
+    --good: #16a34a;
+    --bad: #dc2626;
+    --warn: #f59e0b;
+    --border: #e5e7eb;
+    --marker: #ef4444;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    margin: 0;
+    padding: 16px;
+    line-height: 1.4;
+  }
+  .app { max-width: 1100px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 16px; }
+  h1 { margin: 0 0 4px 0; font-size: 22px; }
+  .subtitle { color: var(--muted); font-size: 13px; }
+
+  .setup, .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+
+  .setup h2 { margin-top: 0; font-size: 17px; }
+  .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+  .row label { font-size: 14px; }
+  .checkbox-group, .radio-group { display: flex; flex-wrap: wrap; gap: 14px; }
+  .checkbox-group label, .radio-group label {
+    display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+    padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px;
+    background: #f9fafb; font-size: 13px;
+  }
+
+  button {
+    background: var(--accent);
+    color: white;
+    border: 0;
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  button:hover { background: var(--accent-hover); }
+  button.secondary { background: #6b7280; }
+  button.secondary:hover { background: #4b5563; }
+  button:disabled { background: #d1d5db; cursor: not-allowed; }
+
+  .topbar {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 12px; gap: 12px; flex-wrap: wrap;
+  }
+  .topbar .score { font-size: 14px; color: var(--muted); }
+  .topbar .score strong { color: var(--ink); }
+  .progress { height: 4px; background: #e5e7eb; border-radius: 2px; overflow: hidden; margin-bottom: 12px; }
+  .progress-fill { height: 100%; background: var(--accent); transition: width 0.3s; }
+
+  .image-wrap {
+    position: relative;
+    width: 100%;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 14px;
+  }
+  .image-wrap img { display: block; width: 100%; height: auto; }
+  .image-wrap svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+  .marker { fill: rgba(239, 68, 68, 0.25); stroke: var(--marker); stroke-width: 3; }
+  .marker-pulse { animation: pulse 1.5s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.55; }
+  }
+
+  .question-text { font-size: 16px; font-weight: 600; margin: 8px 0 12px 0; }
+  .options { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  @media (max-width: 600px) { .options { grid-template-columns: 1fr; } }
+  .option {
+    background: #f9fafb;
+    color: var(--ink);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.15s;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .option .key {
+    background: #e5e7eb; padding: 2px 8px; border-radius: 4px;
+    font-size: 12px; font-weight: 700; color: var(--muted);
+    font-family: ui-monospace, Menlo, Consolas, monospace;
+  }
+  .option:hover:not(:disabled) { border-color: var(--accent); background: #eff6ff; }
+  .option.correct { border-color: var(--good); background: #f0fdf4; color: var(--good); font-weight: 600; }
+  .option.wrong { border-color: var(--bad); background: #fef2f2; color: var(--bad); font-weight: 600; }
+  .option:disabled { cursor: not-allowed; opacity: 0.85; }
+
+  .feedback {
+    margin-top: 12px; padding: 10px 14px; border-radius: 8px;
+    font-size: 14px; font-weight: 600;
+  }
+  .feedback.correct { background: #f0fdf4; color: var(--good); border: 1px solid #86efac; }
+  .feedback.wrong   { background: #fef2f2; color: var(--bad);  border: 1px solid #fca5a5; }
+
+  .actions { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; }
+
+  /* Flashcard */
+  .flashcard {
+    perspective: 1200px;
+    margin-bottom: 14px;
+    user-select: none;
+  }
+  .flash-inner {
+    position: relative; min-height: 80px;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+  }
+  .flash-inner.flipped { transform: rotateY(180deg); }
+  .flash-front, .flash-back {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  .flash-back {
+    position: absolute; inset: 0;
+    transform: rotateY(180deg);
+    display: flex; align-items: center; justify-content: center;
+    background: #1f2937; color: white;
+    border-radius: 8px;
+    font-size: 28px; font-weight: 700;
+    padding: 30px; text-align: center;
+  }
+  .flip-hint { text-align: center; color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+
+  .complete {
+    text-align: center; padding: 30px;
+  }
+  .complete h2 { margin: 0 0 8px 0; }
+  .complete .big-score { font-size: 48px; font-weight: 700; color: var(--accent); margin: 12px 0; }
+
+  .mode-tabs {
+    display: flex; gap: 6px; margin-bottom: 14px;
+    background: #f3f4f6; padding: 4px; border-radius: 8px;
+  }
+  .mode-tabs button {
+    flex: 1; background: transparent; color: var(--muted);
+    padding: 8px 14px; border-radius: 6px; font-size: 13px;
+  }
+  .mode-tabs button.active { background: white; color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,0.08); }
+  .mode-tabs button:hover { background: rgba(255,255,255,0.6); }
+
+  .hidden { display: none !important; }
+
+  .kbd-hint { color: var(--muted); font-size: 12px; margin-top: 10px; text-align: center; }
+</style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <h1>Anatomy Lab Practical Prep</h1>
+    <div class="subtitle">Multiple-choice quiz &amp; flashcards from your lab packets</div>
+  </header>
+
+  <!-- Setup screen -->
+  <section id="setup" class="setup">
+    <h2>Start a session</h2>
+
+    <div class="row">
+      <strong>Sections:</strong>
+      <div id="section-checks" class="checkbox-group"></div>
+    </div>
+
+    <div class="row">
+      <strong>Mode:</strong>
+      <div class="radio-group">
+        <label><input type="radio" name="mode" value="quiz" checked /> Multiple choice quiz</label>
+        <label><input type="radio" name="mode" value="flash" /> Flashcards</label>
+      </div>
+    </div>
+
+    <div class="row">
+      <strong>Order:</strong>
+      <div class="radio-group">
+        <label><input type="radio" name="order" value="shuffle" checked /> Shuffle</label>
+        <label><input type="radio" name="order" value="sequential" /> Sequential (in PDF order)</label>
+      </div>
+    </div>
+
+    <div class="row">
+      <strong>How many:</strong>
+      <div class="radio-group">
+        <label><input type="radio" name="count" value="10" /> 10</label>
+        <label><input type="radio" name="count" value="25" checked /> 25</label>
+        <label><input type="radio" name="count" value="50" /> 50</label>
+        <label><input type="radio" name="count" value="all" /> All</label>
+      </div>
+    </div>
+
+    <div class="row">
+      <button id="start-btn">Start session</button>
+      <span id="pool-size" class="subtitle"></span>
+    </div>
+  </section>
+
+  <!-- Quiz screen -->
+  <section id="quiz-screen" class="card hidden">
+    <div class="topbar">
+      <div class="score">Q <strong id="q-index">1</strong> / <strong id="q-total">10</strong> &nbsp;·&nbsp; Score: <strong id="q-score">0</strong></div>
+      <button class="secondary" onclick="endSession()">End session</button>
+    </div>
+    <div class="progress"><div id="q-progress" class="progress-fill" style="width:0%"></div></div>
+
+    <div class="image-wrap">
+      <img id="q-img" alt="anatomy image" />
+      <svg id="q-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"></svg>
+    </div>
+
+    <div class="question-text">What is the structure indicated by the red marker?</div>
+    <div id="q-options" class="options"></div>
+    <div id="q-feedback" class="feedback hidden"></div>
+
+    <div class="actions">
+      <button id="next-btn" disabled>Next →</button>
+      <button id="skip-btn" class="secondary">Skip / Show answer</button>
+    </div>
+    <div class="kbd-hint">Keyboard: 1–4 to choose, Enter for next, S to skip</div>
+  </section>
+
+  <!-- Flashcard screen -->
+  <section id="flash-screen" class="card hidden">
+    <div class="topbar">
+      <div class="score">Card <strong id="f-index">1</strong> / <strong id="f-total">10</strong></div>
+      <button class="secondary" onclick="endSession()">End session</button>
+    </div>
+    <div class="progress"><div id="f-progress" class="progress-fill" style="width:0%"></div></div>
+
+    <div class="flip-hint">Click the card (or press Space) to flip</div>
+    <div id="flash-card" class="flashcard">
+      <div id="flash-inner" class="flash-inner">
+        <div class="flash-front">
+          <div class="image-wrap" style="margin-bottom:0">
+            <img id="f-img" alt="anatomy image" />
+            <svg id="f-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"></svg>
+          </div>
+        </div>
+        <div id="flash-back" class="flash-back">—</div>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button id="f-prev-btn" class="secondary">← Previous</button>
+      <button id="f-flip-btn">Flip</button>
+      <button id="f-next-btn">Next →</button>
+    </div>
+    <div class="kbd-hint">Keyboard: Space to flip, ← → to navigate</div>
+  </section>
+
+  <!-- Complete screen -->
+  <section id="complete-screen" class="card hidden">
+    <div class="complete">
+      <h2>Session complete!</h2>
+      <div id="final-score" class="big-score">0 / 0</div>
+      <div id="final-pct" class="subtitle">0%</div>
+      <div style="margin-top:20px;">
+        <button onclick="resetToSetup()">New session</button>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+let DATA = null;
+let state = null;
+
+async function loadData() {
+  const r = await fetch('dataset.json');
+  DATA = await r.json();
+  // build section checkboxes
+  const wrap = document.getElementById('section-checks');
+  wrap.innerHTML = '';
+  for (const s of DATA.sections) {
+    const qCount = s.questions.length;
+    const id = 'sec_' + s.id;
+    const div = document.createElement('label');
+    div.innerHTML = `<input type="checkbox" id="${id}" value="${s.id}" checked /> ${s.title} <span style="color:#888">(${qCount})</span>`;
+    wrap.appendChild(div);
+  }
+  updatePoolSize();
+  ['change','click'].forEach(e=>wrap.addEventListener(e, updatePoolSize));
+}
+
+function getSelectedSectionIds() {
+  return Array.from(document.querySelectorAll('#section-checks input:checked')).map(i=>i.value);
+}
+
+function buildQuestions() {
+  const selIds = new Set(getSelectedSectionIds());
+  const questions = [];
+  for (const s of DATA.sections) {
+    if (!selIds.has(s.id)) continue;
+    for (const q of s.questions) {
+      questions.push({
+        sectionId: s.id,
+        sectionTitle: s.title,
+        image: q.image,
+        width: q.width_px,
+        height: q.height_px,
+        bbox: q.bbox_px,
+        answer: q.answer,
+        distractorsPool: q.view_label_pool,
+      });
+    }
+  }
+  return questions;
+}
+
+function updatePoolSize() {
+  const qs = buildQuestions();
+  document.getElementById('pool-size').textContent = `(${qs.length} possible questions in pool)`;
+}
+
+function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+
+function pickN(arr, n) {
+  const copy = arr.slice();
+  shuffle(copy);
+  return copy.slice(0, n);
+}
+
+function startSession() {
+  const mode = document.querySelector('input[name="mode"]:checked').value;
+  const order = document.querySelector('input[name="order"]:checked').value;
+  const countSel = document.querySelector('input[name="count"]:checked').value;
+
+  let qs = buildQuestions();
+  if (qs.length === 0) { alert('No sections selected!'); return; }
+
+  if (order === 'shuffle') shuffle(qs);
+  const n = countSel === 'all' ? qs.length : Math.min(parseInt(countSel,10), qs.length);
+  qs = qs.slice(0, n);
+
+  state = {
+    mode, questions: qs, idx: 0, score: 0, answered: false,
+  };
+
+  document.getElementById('setup').classList.add('hidden');
+  if (mode === 'quiz') {
+    document.getElementById('quiz-screen').classList.remove('hidden');
+    document.getElementById('q-total').textContent = qs.length;
+    renderQuiz();
+  } else {
+    document.getElementById('flash-screen').classList.remove('hidden');
+    document.getElementById('f-total').textContent = qs.length;
+    renderFlash();
+  }
+}
+
+function endSession() {
+  if (state && state.mode === 'quiz') showComplete();
+  else resetToSetup();
+}
+
+function resetToSetup() {
+  state = null;
+  ['quiz-screen','flash-screen','complete-screen'].forEach(id=>document.getElementById(id).classList.add('hidden'));
+  document.getElementById('setup').classList.remove('hidden');
+}
+
+function showComplete() {
+  ['quiz-screen','flash-screen'].forEach(id=>document.getElementById(id).classList.add('hidden'));
+  document.getElementById('complete-screen').classList.remove('hidden');
+  const total = state.questions.length;
+  const sc = state.score;
+  document.getElementById('final-score').textContent = `${sc} / ${total}`;
+  const pct = total ? Math.round(100*sc/total) : 0;
+  document.getElementById('final-pct').textContent = `${pct}% correct`;
+}
+
+function setMarker(svgEl, q) {
+  svgEl.setAttribute('viewBox', `0 0 ${q.width} ${q.height}`);
+  const [x0,y0,x1,y1] = q.bbox;
+  const pad = 6;
+  const x = x0 - pad, y = y0 - pad, w = (x1-x0)+2*pad, h = (y1-y0)+2*pad;
+  svgEl.innerHTML = `<rect class="marker marker-pulse" x="${x}" y="${y}" width="${w}" height="${h}" rx="6" />`;
+}
+
+function renderQuiz() {
+  const q = state.questions[state.idx];
+  document.getElementById('q-index').textContent = state.idx + 1;
+  document.getElementById('q-score').textContent = state.score;
+  document.getElementById('q-progress').style.width = (100*state.idx/state.questions.length) + '%';
+
+  const img = document.getElementById('q-img');
+  img.src = q.image;
+  const svg = document.getElementById('q-svg');
+  // Wait for image to load to size SVG correctly (viewBox handles scaling)
+  setMarker(svg, q);
+
+  // Build options
+  const distractors = pickN(q.distractorsPool, 3);
+  while (distractors.length < 3) {
+    // fallback: pull random labels from across questions to fill
+    const pool = state.questions.map(qq=>qq.answer).filter(t=>t!==q.answer && !distractors.includes(t));
+    if (!pool.length) break;
+    distractors.push(pool[Math.floor(Math.random()*pool.length)]);
+  }
+  const options = shuffle([q.answer, ...distractors]);
+
+  const wrap = document.getElementById('q-options');
+  wrap.innerHTML = '';
+  const keys = ['1','2','3','4'];
+  options.forEach((opt, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'option';
+    btn.dataset.text = opt;
+    btn.innerHTML = `<span class="key">${keys[i]}</span><span>${escapeHtml(opt)}</span>`;
+    btn.addEventListener('click', () => chooseOption(btn, opt, q.answer));
+    wrap.appendChild(btn);
+  });
+
+  const fb = document.getElementById('q-feedback');
+  fb.className = 'feedback hidden';
+  fb.textContent = '';
+  state.answered = false;
+  document.getElementById('next-btn').disabled = true;
+}
+
+function chooseOption(btn, chosen, correct) {
+  if (state.answered) return;
+  state.answered = true;
+  const options = document.querySelectorAll('#q-options .option');
+  options.forEach(o => {
+    o.disabled = true;
+    if (o.dataset.text === correct) o.classList.add('correct');
+    else if (o === btn) o.classList.add('wrong');
+  });
+  const fb = document.getElementById('q-feedback');
+  if (chosen === correct) {
+    state.score++;
+    fb.className = 'feedback correct';
+    fb.textContent = '✓ Correct!';
+  } else {
+    fb.className = 'feedback wrong';
+    fb.textContent = `✗ Correct answer: ${correct}`;
+  }
+  document.getElementById('q-score').textContent = state.score;
+  document.getElementById('next-btn').disabled = false;
+}
+
+function skipQuestion() {
+  if (state.answered) return;
+  const q = state.questions[state.idx];
+  state.answered = true;
+  document.querySelectorAll('#q-options .option').forEach(o => {
+    o.disabled = true;
+    if (o.dataset.text === q.answer) o.classList.add('correct');
+  });
+  const fb = document.getElementById('q-feedback');
+  fb.className = 'feedback wrong';
+  fb.textContent = `Answer: ${q.answer}`;
+  document.getElementById('next-btn').disabled = false;
+}
+
+function nextQuestion() {
+  state.idx++;
+  if (state.idx >= state.questions.length) {
+    showComplete();
+  } else {
+    renderQuiz();
+  }
+}
+
+function renderFlash() {
+  const q = state.questions[state.idx];
+  document.getElementById('f-index').textContent = state.idx + 1;
+  document.getElementById('f-progress').style.width = (100*(state.idx+1)/state.questions.length) + '%';
+  document.getElementById('f-img').src = q.image;
+  setMarker(document.getElementById('f-svg'), q);
+  document.getElementById('flash-back').textContent = q.answer;
+  document.getElementById('flash-inner').classList.remove('flipped');
+}
+
+function flipFlash() {
+  document.getElementById('flash-inner').classList.toggle('flipped');
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' })[c]);
+}
+
+// Wire up
+document.addEventListener('DOMContentLoaded', () => {
+  loadData().catch(e => {
+    document.getElementById('setup').innerHTML =
+      '<h2>Could not load dataset.json</h2>' +
+      '<p>This page must be opened via a local web server, not directly with file:// (browsers block fetch on local files).</p>' +
+      '<p>Open a terminal in this folder and run: <code>python -m http.server 8000</code>, then visit <code>http://localhost:8000/</code></p>' +
+      '<p><small>Error: ' + e.message + '</small></p>';
+  });
+
+  document.getElementById('start-btn').addEventListener('click', startSession);
+  document.getElementById('next-btn').addEventListener('click', nextQuestion);
+  document.getElementById('skip-btn').addEventListener('click', skipQuestion);
+  document.getElementById('flash-card').addEventListener('click', flipFlash);
+  document.getElementById('f-flip-btn').addEventListener('click', (e) => { e.stopPropagation(); flipFlash(); });
+  document.getElementById('f-next-btn').addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (state.idx < state.questions.length - 1) { state.idx++; renderFlash(); }
+    else { resetToSetup(); }
+  });
+  document.getElementById('f-prev-btn').addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (state.idx > 0) { state.idx--; renderFlash(); }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (!state) return;
+    if (state.mode === 'quiz') {
+      if (!state.answered && ['1','2','3','4'].includes(e.key)) {
+        const idx = parseInt(e.key,10) - 1;
+        const opts = document.querySelectorAll('#q-options .option');
+        if (opts[idx]) opts[idx].click();
+      } else if (e.key === 'Enter' && !document.getElementById('next-btn').disabled) {
+        nextQuestion();
+      } else if (e.key.toLowerCase() === 's' && !state.answered) {
+        skipQuestion();
+      }
+    } else if (state.mode === 'flash') {
+      if (e.key === ' ') { e.preventDefault(); flipFlash(); }
+      else if (e.key === 'ArrowRight') { document.getElementById('f-next-btn').click(); }
+      else if (e.key === 'ArrowLeft')  { document.getElementById('f-prev-btn').click(); }
+    }
+  });
+});
+</script>
+</body>
+</html>
