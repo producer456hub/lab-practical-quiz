@@ -239,7 +239,7 @@
       <svg id="q-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"></svg>
     </div>
 
-    <div class="question-text">What is the structure indicated by the red marker?</div>
+    <div id="q-question-text" class="question-text">What is the structure indicated by the red marker?</div>
     <div id="q-options" class="options"></div>
     <div id="q-feedback" class="feedback hidden"></div>
 
@@ -402,6 +402,7 @@ function showComplete() {
 
 function setMarker(svgEl, q) {
   svgEl.setAttribute('viewBox', `0 0 ${q.width} ${q.height}`);
+  if (!q.bbox) { svgEl.innerHTML = ''; return; }
   const [x0,y0,x1,y1] = q.bbox;
   const pad = 6;
   const x = x0 - pad, y = y0 - pad, w = (x1-x0)+2*pad, h = (y1-y0)+2*pad;
@@ -419,6 +420,8 @@ function renderQuiz() {
   const svg = document.getElementById('q-svg');
   // Wait for image to load to size SVG correctly (viewBox handles scaling)
   setMarker(svg, q);
+  document.getElementById('q-question-text').textContent =
+    q.bbox ? 'What is the structure indicated by the red marker?' : 'What tissue is this?';
 
   // Build options
   const distractors = pickN(q.distractorsPool, 3);

@@ -4271,6 +4271,320 @@
           ]
         }
       ]
+    },
+    {
+      "id": "addons",
+      "title": "Add-ons",
+      "questions": [
+        {
+          "image": "images/tissue_01.png",
+          "width_px": 145,
+          "height_px": 122,
+          "bbox_px": null,
+          "answer": "Stratified squamous",
+          "view_label_pool": [
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_02.png",
+          "width_px": 100,
+          "height_px": 122,
+          "bbox_px": null,
+          "answer": "Simple squamous",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_03.png",
+          "width_px": 120,
+          "height_px": 122,
+          "bbox_px": null,
+          "answer": "Simple columnar",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_04.png",
+          "width_px": 175,
+          "height_px": 122,
+          "bbox_px": null,
+          "answer": "Multipolar neurons",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_05.png",
+          "width_px": 205,
+          "height_px": 122,
+          "bbox_px": null,
+          "answer": "Pseudostratified ciliated columnar",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_06.png",
+          "width_px": 150,
+          "height_px": 125,
+          "bbox_px": null,
+          "answer": "Adipose",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_07.png",
+          "width_px": 120,
+          "height_px": 125,
+          "bbox_px": null,
+          "answer": "Skeletal muscle",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_08.png",
+          "width_px": 140,
+          "height_px": 125,
+          "bbox_px": null,
+          "answer": "Areolar",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_09.png",
+          "width_px": 145,
+          "height_px": 125,
+          "bbox_px": null,
+          "answer": "Compact bone",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_10.png",
+          "width_px": 190,
+          "height_px": 125,
+          "bbox_px": null,
+          "answer": "Blood",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_11.png",
+          "width_px": 140,
+          "height_px": 142,
+          "bbox_px": null,
+          "answer": "Smooth muscle",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Hyaline cartilage",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_12.png",
+          "width_px": 170,
+          "height_px": 142,
+          "bbox_px": null,
+          "answer": "Hyaline cartilage",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_13.png",
+          "width_px": 180,
+          "height_px": 142,
+          "bbox_px": null,
+          "answer": "Cardiac muscle",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Simple cuboidal"
+          ]
+        },
+        {
+          "image": "images/tissue_14.png",
+          "width_px": 175,
+          "height_px": 142,
+          "bbox_px": null,
+          "answer": "Simple cuboidal",
+          "view_label_pool": [
+            "Stratified squamous",
+            "Simple squamous",
+            "Simple columnar",
+            "Multipolar neurons",
+            "Pseudostratified ciliated columnar",
+            "Adipose",
+            "Skeletal muscle",
+            "Areolar",
+            "Compact bone",
+            "Blood",
+            "Smooth muscle",
+            "Hyaline cartilage",
+            "Cardiac muscle"
+          ]
+        }
+      ]
     }
   ]
 }
