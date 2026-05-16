@@ -545,21 +545,6 @@
       "title": "Week 5: Appendicular Skeleton",
       "questions": [
         {
-          "page": 1,
-          "view": 1,
-          "image": "images/w5_p1_v1.png",
-          "width_px": 1530,
-          "height_px": 1980,
-          "bbox_px": [
-            1029,
-            66,
-            1098,
-            111
-          ],
-          "answer": "Key",
-          "view_label_pool": []
-        },
-        {
           "page": 2,
           "view": 1,
           "image": "images/w5_p2_v1.png",
@@ -3588,28 +3573,6 @@
           "width_px": 1980,
           "height_px": 901,
           "bbox_px": [
-            1684,
-            548,
-            1939,
-            650
-          ],
-          "answer": "Lateral epicondyle Intercondylar fossa Lateral condyle",
-          "view_label_pool": [
-            "Medial condyle",
-            "Patellar surface",
-            "Lateral epicondyle",
-            "Lateral condyle",
-            "Popliteal surface",
-            "Medial epicondyle"
-          ]
-        },
-        {
-          "page": 9,
-          "view": 2,
-          "image": "images/w5_p9_v2.png",
-          "width_px": 1980,
-          "height_px": 901,
-          "bbox_px": [
             1101,
             566,
             1310,
@@ -3687,7 +3650,7 @@
             "Right",
             "Head",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Lateral condyle",
             "Intercondylar eminence"
@@ -3712,7 +3675,7 @@
             "Right",
             "Head",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Intercondylar eminence"
           ]
@@ -3736,7 +3699,7 @@
             "Right",
             "Head",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Intercondylar eminence"
           ]
@@ -3760,7 +3723,7 @@
             "Right",
             "Head",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Lateral condyle"
           ]
@@ -3783,7 +3746,7 @@
             "Fibula",
             "Right",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Lateral condyle",
             "Intercondylar eminence"
@@ -3807,7 +3770,7 @@
             "Fibula",
             "Right",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Lateral condyle",
             "Intercondylar eminence"
@@ -3825,7 +3788,7 @@
             1271,
             451
           ],
-          "answer": "Tibal tuberosity",
+          "answer": "Tibial tuberosity",
           "view_label_pool": [
             "Medial condyle",
             "Fibula",
@@ -3855,7 +3818,7 @@
             "Fibula",
             "Right",
             "Head",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Lateral condyle",
             "Intercondylar eminence"
@@ -3879,7 +3842,7 @@
             "Right",
             "Head",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Lateral condyle",
             "Intercondylar eminence"
@@ -3904,7 +3867,7 @@
             "Right",
             "Head",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Lateral condyle",
             "Intercondylar eminence"
           ]
@@ -3927,7 +3890,7 @@
             "Fibula",
             "Head",
             "Anterior border/crest",
-            "Tibal tuberosity",
+            "Tibial tuberosity",
             "Tibia",
             "Lateral condyle",
             "Intercondylar eminence"
@@ -3996,7 +3959,7 @@
             921,
             103
           ],
-          "answer": "Calcaneous",
+          "answer": "Calcaneus",
           "view_label_pool": [
             "Metatarsals",
             "Middle phalange II",
@@ -4005,9 +3968,9 @@
             "Proximal phalange II",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4024,16 +3987,16 @@
           ],
           "answer": "Talus",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Middle phalange II",
             "Navicular",
             "Proximal phalange II",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4050,16 +4013,16 @@
           ],
           "answer": "Navicular",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Middle phalange II",
             "Talus",
             "Proximal phalange II",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4076,16 +4039,16 @@
           ],
           "answer": "Cuboid",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Middle phalange II",
             "Talus",
             "Navicular",
             "Proximal phalange II",
             "Distal phalange II",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4100,9 +4063,9 @@
             1738,
             573
           ],
-          "answer": "Lateral cuneform",
+          "answer": "Lateral cuneiform",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Middle phalange II",
             "Talus",
@@ -4110,8 +4073,8 @@
             "Proximal phalange II",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4126,9 +4089,9 @@
             1814,
             621
           ],
-          "answer": "Intermediate cuneform",
+          "answer": "Intermediate cuneiform",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Middle phalange II",
             "Talus",
@@ -4136,8 +4099,8 @@
             "Proximal phalange II",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform"
           ]
         },
         {
@@ -4152,9 +4115,9 @@
             1731,
             667
           ],
-          "answer": "Medial cuneform",
+          "answer": "Medial cuneiform",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Talus",
             "Navicular",
@@ -4162,8 +4125,8 @@
             "Distal phalange II",
             "Cuboid",
             "Middle phalange II",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4180,16 +4143,16 @@
           ],
           "answer": "Metatarsals",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Middle phalange II",
             "Talus",
             "Navicular",
             "Proximal phalange II",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4206,16 +4169,16 @@
           ],
           "answer": "Proximal phalange II",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Middle phalange II",
             "Talus",
             "Navicular",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4232,16 +4195,16 @@
           ],
           "answer": "Middle phalange II",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Talus",
             "Navicular",
             "Proximal phalange II",
             "Distal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
           ]
         },
         {
@@ -4258,16 +4221,4899 @@
           ],
           "answer": "Distal phalange II",
           "view_label_pool": [
-            "Calcaneous",
+            "Calcaneus",
             "Metatarsals",
             "Middle phalange II",
             "Talus",
             "Navicular",
             "Proximal phalange II",
             "Cuboid",
-            "Medial cuneform",
-            "Lateral cuneform",
-            "Intermediate cuneform"
+            "Medial cuneiform",
+            "Lateral cuneiform",
+            "Intermediate cuneiform"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "title": "Week 4: Axial Skeleton",
+      "questions": [
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            135,
+            813,
+            381,
+            840
+          ],
+          "answer": "Inferior nasal conchae",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            216,
+            781,
+            433,
+            809
+          ],
+          "answer": "Infraorbital foramen",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            217,
+            738,
+            432,
+            766
+          ],
+          "answer": "Perpendicular plate",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            227,
+            1072,
+            401,
+            1099
+          ],
+          "answer": "Mental foramen",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            233,
+            259,
+            397,
+            287
+          ],
+          "answer": "Coronal suture",
+          "view_label_pool": [
+            "Anterior",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            238,
+            685,
+            395,
+            712
+          ],
+          "answer": "Lacrimal bone",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            239,
+            305,
+            386,
+            333
+          ],
+          "answer": "Parietal bone",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            244,
+            203,
+            384,
+            231
+          ],
+          "answer": "Frontal bone",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            264,
+            907,
+            336,
+            935
+          ],
+          "answer": "Vomer",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            453,
+            68,
+            541,
+            96
+          ],
+          "answer": "Anterior",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1166,
+            1105,
+            1268,
+            1133
+          ],
+          "answer": "Mandible",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1167,
+            524,
+            1417,
+            552
+          ],
+          "answer": "Superior orbital fissure",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1168,
+            806,
+            1346,
+            834
+          ],
+          "answer": "Zygomatic bone",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1168,
+            874,
+            1308,
+            902
+          ],
+          "answer": "Maxilla bone",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1171,
+            491,
+            1395,
+            519
+          ],
+          "answer": "Optic canal/foramen",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1172,
+            660,
+            1298,
+            688
+          ],
+          "answer": "Nasal bone",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Supraorbital notch/foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p2_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1173,
+            425,
+            1475,
+            453
+          ],
+          "answer": "Supraorbital notch/foramen",
+          "view_label_pool": [
+            "Anterior",
+            "Coronal suture",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Mandible",
+            "Maxilla bone",
+            "Mental foramen",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Parietal bone",
+            "Perpendicular plate",
+            "Superior orbital fissure",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            76,
+            587,
+            272,
+            615
+          ],
+          "answer": "Squamous suture",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            82,
+            714,
+            268,
+            742
+          ],
+          "answer": "Lambdoid suture",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            85,
+            390,
+            249,
+            418
+          ],
+          "answer": "Coronal suture",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            85,
+            902,
+            249,
+            930
+          ],
+          "answer": "Occipital bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            85,
+            1048,
+            267,
+            1076
+          ],
+          "answer": "Mastoid process",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            90,
+            674,
+            255,
+            702
+          ],
+          "answer": "Temporal bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            99,
+            324,
+            246,
+            351
+          ],
+          "answer": "Parietal bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            189,
+            943,
+            280,
+            1029
+          ],
+          "answer": "External acoustic meatus",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            431,
+            1057,
+            554,
+            1114
+          ],
+          "answer": "Mandibular condyle",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            447,
+            107,
+            524,
+            135
+          ],
+          "answer": "Lateral",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            654,
+            1022,
+            756,
+            1079
+          ],
+          "answer": "Coronoid process",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            771,
+            1105,
+            861,
+            1162
+          ],
+          "answer": "Alveolar process",
+          "view_label_pool": [
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1293,
+            323,
+            1433,
+            351
+          ],
+          "answer": "Frontal bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1309,
+            427,
+            1478,
+            455
+          ],
+          "answer": "Sphenoid bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1322,
+            488,
+            1490,
+            516
+          ],
+          "answer": "Ethmoid bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1326,
+            931,
+            1504,
+            959
+          ],
+          "answer": "Zygomatic bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1327,
+            557,
+            1484,
+            585
+          ],
+          "answer": "Lacrimal bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1327,
+            616,
+            1453,
+            644
+          ],
+          "answer": "Nasal bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1328,
+            876,
+            1468,
+            904
+          ],
+          "answer": "Maxilla bone",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1328,
+            977,
+            1503,
+            1043
+          ],
+          "answer": "Mandible Mental foramen",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1334,
+            801,
+            1544,
+            829
+          ],
+          "answer": "Zygomatic process",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Mental protuberance",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p3_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1385,
+            1148,
+            1533,
+            1205
+          ],
+          "answer": "Mental protuberance",
+          "view_label_pool": [
+            "Alveolar process",
+            "Coronal suture",
+            "Coronoid process",
+            "Ethmoid bone",
+            "External acoustic meatus",
+            "Frontal bone",
+            "Lacrimal bone",
+            "Lambdoid suture",
+            "Lateral",
+            "Mandible Mental foramen",
+            "Mandibular condyle",
+            "Mastoid process",
+            "Maxilla bone",
+            "Nasal bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Sphenoid bone",
+            "Squamous suture",
+            "Temporal bone",
+            "Zygomatic bone",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            576,
+            587,
+            670,
+            615
+          ],
+          "answer": "Superior",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            621,
+            697,
+            807,
+            725
+          ],
+          "answer": "Lambdoid suture",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            624,
+            961,
+            772,
+            989
+          ],
+          "answer": "Parietal bone",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            631,
+            831,
+            791,
+            859
+          ],
+          "answer": "Sagittal suture",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            638,
+            666,
+            797,
+            694
+          ],
+          "answer": "Occipital bone",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            640,
+            1144,
+            804,
+            1172
+          ],
+          "answer": "Coronal suture",
+          "view_label_pool": [
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            660,
+            1190,
+            800,
+            1218
+          ],
+          "answer": "Frontal bone",
+          "view_label_pool": [
+            "Coronal suture",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            699,
+            179,
+            949,
+            207
+          ],
+          "answer": "Occipital protuberance",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            761,
+            415,
+            948,
+            443
+          ],
+          "answer": "Lambdoid suture",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            786,
+            590,
+            946,
+            618
+          ],
+          "answer": "Sagittal suture",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            788,
+            336,
+            947,
+            364
+          ],
+          "answer": "Occipital bone",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Parietal bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            793,
+            501,
+            947,
+            529
+          ],
+          "answer": "Parietal bone",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Posterior",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p4_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1434,
+            105,
+            1534,
+            133
+          ],
+          "answer": "Posterior",
+          "view_label_pool": [
+            "Coronal suture",
+            "Frontal bone",
+            "Lambdoid suture",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Occipital bone",
+            "Parietal bone",
+            "Parietal bone",
+            "Sagittal suture",
+            "Superior"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            252,
+            645,
+            442,
+            673
+          ],
+          "answer": "Mandibular fossa",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Inferior",
+            "Occipital bone",
+            "Occipital condyle",
+            "Occipital protuberance",
+            "Palatine bone",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            278,
+            782,
+            467,
+            810
+          ],
+          "answer": "Occipital condyle",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Inferior",
+            "Mandibular fossa",
+            "Occipital bone",
+            "Occipital protuberance",
+            "Palatine bone",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            285,
+            413,
+            456,
+            440
+          ],
+          "answer": "Zygomatic arch",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Inferior",
+            "Mandibular fossa",
+            "Occipital bone",
+            "Occipital condyle",
+            "Occipital protuberance",
+            "Palatine bone"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            285,
+            970,
+            443,
+            997
+          ],
+          "answer": "Occipital bone",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Inferior",
+            "Mandibular fossa",
+            "Occipital condyle",
+            "Occipital protuberance",
+            "Palatine bone",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            534,
+            63,
+            612,
+            91
+          ],
+          "answer": "Inferior",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Mandibular fossa",
+            "Occipital bone",
+            "Occipital condyle",
+            "Occipital protuberance",
+            "Palatine bone",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1258,
+            689,
+            1454,
+            717
+          ],
+          "answer": "Foramen lacerum",
+          "view_label_pool": [
+            "Foramen magnum",
+            "Inferior",
+            "Mandibular fossa",
+            "Occipital bone",
+            "Occipital condyle",
+            "Occipital protuberance",
+            "Palatine bone",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1258,
+            848,
+            1462,
+            876
+          ],
+          "answer": "Foramen magnum",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Inferior",
+            "Mandibular fossa",
+            "Occipital bone",
+            "Occipital condyle",
+            "Occipital protuberance",
+            "Palatine bone",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1262,
+            415,
+            1415,
+            443
+          ],
+          "answer": "Palatine bone",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Inferior",
+            "Mandibular fossa",
+            "Occipital bone",
+            "Occipital condyle",
+            "Occipital protuberance",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p5_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1262,
+            1128,
+            1512,
+            1156
+          ],
+          "answer": "Occipital protuberance",
+          "view_label_pool": [
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Inferior",
+            "Mandibular fossa",
+            "Occipital bone",
+            "Occipital condyle",
+            "Palatine bone",
+            "Zygomatic arch"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            108,
+            867,
+            312,
+            895
+          ],
+          "answer": "Foramen magnum",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            114,
+            591,
+            280,
+            619
+          ],
+          "answer": "Foramen ovale",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            117,
+            788,
+            297,
+            816
+          ],
+          "answer": "Jugular foramen",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            122,
+            963,
+            280,
+            991
+          ],
+          "answer": "Occipital bone",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            542,
+            65,
+            666,
+            93
+          ],
+          "answer": "Transverse",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1194,
+            381,
+            1365,
+            409
+          ],
+          "answer": "Cribriform plate",
+          "view_label_pool": [
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1205,
+            422,
+            1351,
+            450
+          ],
+          "answer": "Lesser wings",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1214,
+            463,
+            1378,
+            491
+          ],
+          "answer": "Optic foramen/",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1214,
+            492,
+            1274,
+            520
+          ],
+          "answer": "canal",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1215,
+            199,
+            1348,
+            227
+          ],
+          "answer": "Frontal bone",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1216,
+            634,
+            1412,
+            662
+          ],
+          "answer": "Foramen lacerum",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1220,
+            597,
+            1433,
+            625
+          ],
+          "answer": "Foramen rotundum",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1226,
+            555,
+            1381,
+            582
+          ],
+          "answer": "Greater wings",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p6_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1234,
+            293,
+            1345,
+            321
+          ],
+          "answer": "Crista galli",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Foramen lacerum",
+            "Foramen magnum",
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Frontal bone",
+            "Greater wings",
+            "Jugular foramen",
+            "Lesser wings",
+            "Occipital bone",
+            "Optic foramen/",
+            "Transverse",
+            "canal"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            31,
+            433,
+            134,
+            461
+          ],
+          "answer": "Temporal",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            34,
+            587,
+            224,
+            645
+          ],
+          "answer": "External acoustic meatus",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            50,
+            906,
+            137,
+            963
+          ],
+          "answer": "Mastoid process",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            609,
+            916,
+            696,
+            973
+          ],
+          "answer": "Styloid process",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            616,
+            478,
+            840,
+            506
+          ],
+          "answer": "Optic foramen/canal",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            647,
+            545,
+            860,
+            573
+          ],
+          "answer": "Foramen rotundum",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            649,
+            240,
+            782,
+            268
+          ],
+          "answer": "Lesser wing",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            676,
+            829,
+            799,
+            887
+          ],
+          "answer": "Mandibular fossa",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            720,
+            940,
+            891,
+            968
+          ],
+          "answer": "Cribriform plate",
+          "view_label_pool": [
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            765,
+            741,
+            975,
+            769
+          ],
+          "answer": "Zygomatic process",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            816,
+            621,
+            952,
+            649
+          ],
+          "answer": "Sella turcica",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            818,
+            102,
+            924,
+            130
+          ],
+          "answer": "Sphenoid",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            866,
+            847,
+            977,
+            875
+          ],
+          "answer": "Crista galli",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            906,
+            1223,
+            998,
+            1251
+          ],
+          "answer": "Ethmoid",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1330,
+            1127,
+            1546,
+            1155
+          ],
+          "answer": "Perpendicular plate",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1355,
+            461,
+            1489,
+            489
+          ],
+          "answer": "Lesser wing",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1356,
+            429,
+            1499,
+            457
+          ],
+          "answer": "Greater wing",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Superior orbital fissure",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p7_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1358,
+            510,
+            1608,
+            538
+          ],
+          "answer": "Superior orbital fissure",
+          "view_label_pool": [
+            "Cribriform plate",
+            "Crista galli",
+            "Ethmoid",
+            "External acoustic meatus",
+            "Foramen rotundum",
+            "Greater wing",
+            "Lesser wing",
+            "Mandibular fossa",
+            "Mastoid process",
+            "Optic foramen/canal",
+            "Perpendicular plate",
+            "Sella turcica",
+            "Sphenoid",
+            "Styloid process",
+            "Temporal",
+            "Zygomatic process"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            174,
+            799,
+            417,
+            827
+          ],
+          "answer": "Optic canal/foramen",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            224,
+            1091,
+            470,
+            1119
+          ],
+          "answer": "Inferior nasal conchae",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            229,
+            1171,
+            369,
+            1198
+          ],
+          "answer": "Maxilla bone",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            230,
+            687,
+            480,
+            715
+          ],
+          "answer": "Superior orbital fissure",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            254,
+            966,
+            432,
+            994
+          ],
+          "answer": "Zygomatic bone",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            258,
+            1048,
+            467,
+            1076
+          ],
+          "answer": "Infraorbital foramen",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            265,
+            516,
+            405,
+            544
+          ],
+          "answer": "Frontal bone",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1295,
+            596,
+            1529,
+            624
+          ],
+          "answer": "Supraorbital foramen",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1296,
+            802,
+            1422,
+            830
+          ],
+          "answer": "Nasal bone",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1297,
+            840,
+            1451,
+            868
+          ],
+          "answer": "Ethmoid bone",
+          "view_label_pool": [
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1298,
+            872,
+            1455,
+            900
+          ],
+          "answer": "Lacrimal bone",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Vomer",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p8_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1313,
+            1149,
+            1385,
+            1176
+          ],
+          "answer": "Vomer",
+          "view_label_pool": [
+            "Ethmoid bone",
+            "Frontal bone",
+            "Inferior nasal conchae",
+            "Infraorbital foramen",
+            "Lacrimal bone",
+            "Maxilla bone",
+            "Nasal bone",
+            "Optic canal/foramen",
+            "Superior orbital fissure",
+            "Supraorbital foramen",
+            "Zygomatic bone"
+          ]
+        },
+        {
+          "image": "images/w4_p9_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            209,
+            598,
+            273,
+            626
+          ],
+          "answer": "Hyoid",
+          "view_label_pool": [
+            "Incus",
+            "Malleus",
+            "Stapes"
+          ]
+        },
+        {
+          "image": "images/w4_p9_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            803,
+            1055,
+            904,
+            1083
+          ],
+          "answer": "Malleus",
+          "view_label_pool": [
+            "Hyoid",
+            "Incus",
+            "Stapes"
+          ]
+        },
+        {
+          "image": "images/w4_p9_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1466,
+            1041,
+            1543,
+            1069
+          ],
+          "answer": "Stapes",
+          "view_label_pool": [
+            "Hyoid",
+            "Incus",
+            "Malleus"
+          ]
+        },
+        {
+          "image": "images/w4_p9_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1467,
+            846,
+            1527,
+            873
+          ],
+          "answer": "Incus",
+          "view_label_pool": [
+            "Hyoid",
+            "Malleus",
+            "Stapes"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            26,
+            1013,
+            201,
+            1070
+          ],
+          "answer": "Dens/odontoid process",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            61,
+            875,
+            177,
+            988
+          ],
+          "answer": "Lamina Vertebral foramen",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            95,
+            1164,
+            142,
+            1192
+          ],
+          "answer": "Axis",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            483,
+            431,
+            735,
+            459
+          ],
+          "answer": "Superior articular facet",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            523,
+            517,
+            746,
+            545
+          ],
+          "answer": "Transverse foramen",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            538,
+            366,
+            736,
+            394
+          ],
+          "answer": "Vertebral foramen",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            541,
+            943,
+            691,
+            1000
+          ],
+          "answer": "Inferior articular facet",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            541,
+            1030,
+            691,
+            1087
+          ],
+          "answer": "Superior articular facet",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            545,
+            828,
+            730,
+            856
+          ],
+          "answer": "Spinous process",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            639,
+            933,
+            838,
+            961
+          ],
+          "answer": "Vertebral foramen",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            717,
+            1024,
+            841,
+            1081
+          ],
+          "answer": "Transverse process",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            751,
+            889,
+            833,
+            917
+          ],
+          "answer": "Lamina",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            754,
+            963,
+            878,
+            1020
+          ],
+          "answer": "Transverse foramen",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            844,
+            1150,
+            1024,
+            1178
+          ],
+          "answer": "General cervical",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            891,
+            234,
+            946,
+            261
+          ],
+          "answer": "Atlas",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1320,
+            1027,
+            1377,
+            1055
+          ],
+          "answer": "Body",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1321,
+            988,
+            1403,
+            1016
+          ],
+          "answer": "Pedicle",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1324,
+            780,
+            1560,
+            808
+          ],
+          "answer": "Bifid spinous process",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1327,
+            909,
+            1579,
+            937
+          ],
+          "answer": "Superior articular facet",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1379,
+            473,
+            1598,
+            501
+          ],
+          "answer": "Transverse process",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1383,
+            585,
+            1566,
+            613
+          ],
+          "answer": "Anterior tubercle",
+          "view_label_pool": [
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Posterior tubercle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p10_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1384,
+            322,
+            1580,
+            350
+          ],
+          "answer": "Posterior tubercle",
+          "view_label_pool": [
+            "Anterior tubercle",
+            "Atlas",
+            "Axis",
+            "Bifid spinous process",
+            "Body",
+            "Dens/odontoid process",
+            "General cervical",
+            "Inferior articular facet",
+            "Lamina",
+            "Lamina Vertebral foramen",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse foramen",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            12,
+            1160,
+            231,
+            1188
+          ],
+          "answer": "Transverse process",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            45,
+            1045,
+            235,
+            1110
+          ],
+          "answer": "Superior articular coastal facet",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            110,
+            1111,
+            234,
+            1139
+          ],
+          "answer": "Transverse",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            144,
+            497,
+            227,
+            574
+          ],
+          "answer": "Pedicle Body",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            171,
+            941,
+            228,
+            969
+          ],
+          "answer": "Body",
+          "view_label_pool": [
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            181,
+            1016,
+            235,
+            1044
+          ],
+          "answer": "facet",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            601,
+            177,
+            696,
+            205
+          ],
+          "answer": "Thoracic",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            685,
+            597,
+            904,
+            625
+          ],
+          "answer": "Transverse process",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            698,
+            796,
+            1013,
+            824
+          ],
+          "answer": "Thoracic Vertebrae (T1-T12)",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            701,
+            645,
+            953,
+            673
+          ],
+          "answer": "Superior articular facet",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            705,
+            562,
+            962,
+            590
+          ],
+          "answer": "Transverse costal facet",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            710,
+            405,
+            895,
+            433
+          ],
+          "answer": "Spinous process",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            711,
+            495,
+            957,
+            523
+          ],
+          "answer": "Intervertebral foramen",
+          "view_label_pool": [
+            "Body",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            731,
+            1115,
+            813,
+            1143
+          ],
+          "answer": "Lamina",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            733,
+            1032,
+            815,
+            1060
+          ],
+          "answer": "Pedicle",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            734,
+            973,
+            932,
+            1001
+          ],
+          "answer": "Vertebral foramen",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Spinous process",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p11_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            741,
+            1201,
+            926,
+            1229
+          ],
+          "answer": "Spinous process",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Pedicle Body",
+            "Superior articular coastal facet",
+            "Superior articular facet",
+            "Thoracic",
+            "Thoracic Vertebrae (T1-T12)",
+            "Transverse",
+            "Transverse costal facet",
+            "Transverse process",
+            "Vertebral foramen",
+            "facet"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            448,
+            896,
+            667,
+            924
+          ],
+          "answer": "Transverse process",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            455,
+            837,
+            706,
+            865
+          ],
+          "answer": "Superior articular facet",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            470,
+            967,
+            654,
+            995
+          ],
+          "answer": "Spinous process",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            676,
+            405,
+            758,
+            433
+          ],
+          "answer": "Pedicle",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            678,
+            337,
+            760,
+            365
+          ],
+          "answer": "Lamina",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            745,
+            1190,
+            830,
+            1218
+          ],
+          "answer": "Lumbar",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1188,
+            330,
+            1407,
+            358
+          ],
+          "answer": "Transverse process",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1189,
+            224,
+            1374,
+            252
+          ],
+          "answer": "Spinous process",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1191,
+            399,
+            1389,
+            427
+          ],
+          "answer": "Vertebral foramen",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1196,
+            503,
+            1253,
+            531
+          ],
+          "answer": "Body",
+          "view_label_pool": [
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1197,
+            272,
+            1449,
+            300
+          ],
+          "answer": "Superior articular facet",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1246,
+            938,
+            1303,
+            966
+          ],
+          "answer": "Body",
+          "view_label_pool": [
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1250,
+            890,
+            1332,
+            918
+          ],
+          "answer": "Pedicle",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1251,
+            977,
+            1497,
+            1005
+          ],
+          "answer": "Intervertebral foramen",
+          "view_label_pool": [
+            "Body",
+            "Inferior articular facet",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p12_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1253,
+            1026,
+            1488,
+            1054
+          ],
+          "answer": "Inferior articular facet",
+          "view_label_pool": [
+            "Body",
+            "Intervertebral foramen",
+            "Lamina",
+            "Lumbar",
+            "Pedicle",
+            "Spinous process",
+            "Superior articular facet",
+            "Transverse process",
+            "Vertebral foramen"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            34,
+            314,
+            209,
+            342
+          ],
+          "answer": "Sacral foramina",
+          "view_label_pool": [
+            "Coccyx",
+            "Sacral canal",
+            "Sacral hiatus",
+            "Sacral median crest",
+            "Sacrum"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            180,
+            905,
+            262,
+            932
+          ],
+          "answer": "Coccyx",
+          "view_label_pool": [
+            "Sacral canal",
+            "Sacral foramina",
+            "Sacral hiatus",
+            "Sacral median crest",
+            "Sacrum"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            246,
+            832,
+            332,
+            860
+          ],
+          "answer": "Sacrum",
+          "view_label_pool": [
+            "Coccyx",
+            "Sacral canal",
+            "Sacral foramina",
+            "Sacral hiatus",
+            "Sacral median crest"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            576,
+            622,
+            658,
+            650
+          ],
+          "answer": "Coccyx",
+          "view_label_pool": [
+            "Sacral canal",
+            "Sacral foramina",
+            "Sacral hiatus",
+            "Sacral median crest",
+            "Sacrum"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            795,
+            1073,
+            940,
+            1101
+          ],
+          "answer": "Sacral hiatus",
+          "view_label_pool": [
+            "Coccyx",
+            "Sacral canal",
+            "Sacral foramina",
+            "Sacral median crest",
+            "Sacrum"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1365,
+            861,
+            1540,
+            888
+          ],
+          "answer": "Sacral foramina",
+          "view_label_pool": [
+            "Coccyx",
+            "Sacral canal",
+            "Sacral hiatus",
+            "Sacral median crest",
+            "Sacrum"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1366,
+            610,
+            1504,
+            638
+          ],
+          "answer": "Sacral canal",
+          "view_label_pool": [
+            "Coccyx",
+            "Sacral foramina",
+            "Sacral hiatus",
+            "Sacral median crest",
+            "Sacrum"
+          ]
+        },
+        {
+          "image": "images/w4_p13_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1368,
+            983,
+            1588,
+            1011
+          ],
+          "answer": "Sacral median crest",
+          "view_label_pool": [
+            "Coccyx",
+            "Sacral canal",
+            "Sacral foramina",
+            "Sacral hiatus",
+            "Sacrum"
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            39,
+            1021,
+            426,
+            1096
+          ],
+          "answer": "All the ribs have a number assigned. Label the true,",
+          "view_label_pool": [
+            "Body of the Sternum",
+            "Clavicular notch",
+            "Jugular notch",
+            "Manubrium",
+            "Sternum Ribs",
+            "Xiphoid process",
+            "false and floating ribs."
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            39,
+            1096,
+            363,
+            1133
+          ],
+          "answer": "false and floating ribs.",
+          "view_label_pool": [
+            "All the ribs have a number assigned. Label the true,",
+            "Body of the Sternum",
+            "Clavicular notch",
+            "Jugular notch",
+            "Manubrium",
+            "Sternum Ribs",
+            "Xiphoid process"
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            66,
+            218,
+            160,
+            281
+          ],
+          "answer": "Sternum Ribs",
+          "view_label_pool": [
+            "All the ribs have a number assigned. Label the true,",
+            "Body of the Sternum",
+            "Clavicular notch",
+            "Jugular notch",
+            "Manubrium",
+            "Xiphoid process",
+            "false and floating ribs."
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            236,
+            631,
+            464,
+            659
+          ],
+          "answer": "Body of the Sternum",
+          "view_label_pool": [
+            "All the ribs have a number assigned. Label the true,",
+            "Clavicular notch",
+            "Jugular notch",
+            "Manubrium",
+            "Sternum Ribs",
+            "Xiphoid process",
+            "false and floating ribs."
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            354,
+            766,
+            532,
+            794
+          ],
+          "answer": "Xiphoid process",
+          "view_label_pool": [
+            "All the ribs have a number assigned. Label the true,",
+            "Body of the Sternum",
+            "Clavicular notch",
+            "Jugular notch",
+            "Manubrium",
+            "Sternum Ribs",
+            "false and floating ribs."
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            388,
+            596,
+            513,
+            624
+          ],
+          "answer": "Manubrium",
+          "view_label_pool": [
+            "All the ribs have a number assigned. Label the true,",
+            "Body of the Sternum",
+            "Clavicular notch",
+            "Jugular notch",
+            "Sternum Ribs",
+            "Xiphoid process",
+            "false and floating ribs."
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            413,
+            319,
+            495,
+            376
+          ],
+          "answer": "Jugular notch",
+          "view_label_pool": [
+            "All the ribs have a number assigned. Label the true,",
+            "Body of the Sternum",
+            "Clavicular notch",
+            "Manubrium",
+            "Sternum Ribs",
+            "Xiphoid process",
+            "false and floating ribs."
+          ]
+        },
+        {
+          "image": "images/w4_p14_v1.png",
+          "width_px": 1650,
+          "height_px": 1275,
+          "bbox_px": [
+            1405,
+            343,
+            1583,
+            371
+          ],
+          "answer": "Clavicular notch",
+          "view_label_pool": [
+            "All the ribs have a number assigned. Label the true,",
+            "Body of the Sternum",
+            "Jugular notch",
+            "Manubrium",
+            "Sternum Ribs",
+            "Xiphoid process",
+            "false and floating ribs."
           ]
         }
       ]
