@@ -11,36 +11,6 @@
           "width_px": 1530,
           "height_px": 1980,
           "bbox_px": [
-            1086,
-            177,
-            1156,
-            216
-          ],
-          "answer": "KEY",
-          "view_label_pool": [
-            "Plasma membrane",
-            "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
-            "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
-          ]
-        },
-        {
-          "page": 1,
-          "view": 1,
-          "image": "images/w3_p1_v1.png",
-          "width_px": 1530,
-          "height_px": 1980,
-          "bbox_px": [
             1022,
             522,
             1192,
@@ -48,20 +18,19 @@
           ],
           "answer": "Golgi vesicle",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -78,20 +47,19 @@
           ],
           "answer": "Rough endoplasmic reticulum (Rough ER)",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Mitochondria",
-            "Peroxisome",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -108,20 +76,19 @@
           ],
           "answer": "Peroxisome",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -138,20 +105,19 @@
           ],
           "answer": "Secretory vesicle",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -168,20 +134,19 @@
           ],
           "answer": "Golgi complex (apparatus)",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
             "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
+            "Lysosome",
             "Mitochondria",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -198,20 +163,19 @@
           ],
           "answer": "Lysosome",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -228,20 +192,19 @@
           ],
           "answer": "Centriole/ centromere",
           "view_label_pool": [
-            "Plasma membrane",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -258,20 +221,19 @@
           ],
           "answer": "Mitochondria",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
+            "Golgi complex (apparatus)",
+            "Golgi vesicle",
             "Lysosome",
             "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
+            "Nucleus",
             "Peroxisome",
-            "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -289,19 +251,18 @@
           "answer": "Plasma membrane",
           "view_label_pool": [
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -318,19 +279,18 @@
           ],
           "answer": "Ribosome",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
             "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
@@ -348,20 +308,19 @@
           ],
           "answer": "Cytosol/ cytoplasm",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -378,20 +337,19 @@
           ],
           "answer": "Smooth endoplasmic reticulum (Smooth ER)",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle"
           ]
         },
         {
@@ -408,20 +366,19 @@
           ],
           "answer": "Nucleolus",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -438,20 +395,19 @@
           ],
           "answer": "Rough endoplasmic reticulum (Rough ER)",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Nucleus",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Mitochondria",
-            "Peroxisome",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Nucleus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         },
         {
@@ -468,74 +424,19 @@
           ],
           "answer": "Nucleus",
           "view_label_pool": [
-            "Plasma membrane",
             "Centriole/ centromere",
-            "Secretory vesicle",
-            "KEY",
             "Cytosol/ cytoplasm",
-            "Lysosome",
-            "Nucleolus",
-            "Golgi vesicle",
-            "Rough endoplasmic reticulum (Rough ER)",
-            "Peroxisome",
-            "Mitochondria",
             "Golgi complex (apparatus)",
-            "Smooth endoplasmic reticulum (Smooth ER)",
-            "Ribosome"
-          ]
-        },
-        {
-          "page": 2,
-          "view": 1,
-          "image": "images/w3_p2_v1.png",
-          "width_px": 1530,
-          "height_px": 1980,
-          "bbox_px": [
-            26,
-            303,
-            1206,
-            337
-          ],
-          "answer": "Propase                         Metaphase                       Anaphase                       Telophase",
-          "view_label_pool": [
-            "Cytokinesis not shown",
-            "Hair papilla"
-          ]
-        },
-        {
-          "page": 2,
-          "view": 1,
-          "image": "images/w3_p2_v1.png",
-          "width_px": 1530,
-          "height_px": 1980,
-          "bbox_px": [
-            1206,
-            675,
-            1505,
-            709
-          ],
-          "answer": "Cytokinesis not shown",
-          "view_label_pool": [
-            "Hair papilla",
-            "Propase                         Metaphase                       Anaphase                       Telophase"
-          ]
-        },
-        {
-          "page": 2,
-          "view": 1,
-          "image": "images/w3_p2_v1.png",
-          "width_px": 1530,
-          "height_px": 1980,
-          "bbox_px": [
-            75,
-            1552,
-            146,
-            1569
-          ],
-          "answer": "Hair papilla",
-          "view_label_pool": [
-            "Cytokinesis not shown",
-            "Propase                         Metaphase                       Anaphase                       Telophase"
+            "Golgi vesicle",
+            "Lysosome",
+            "Mitochondria",
+            "Nucleolus",
+            "Peroxisome",
+            "Plasma membrane",
+            "Ribosome",
+            "Rough endoplasmic reticulum (Rough ER)",
+            "Secretory vesicle",
+            "Smooth endoplasmic reticulum (Smooth ER)"
           ]
         }
       ]
@@ -558,9 +459,9 @@
           ],
           "answer": "Clavicle",
           "view_label_pool": [
+            "Acromial end",
             "Scapula",
-            "Sternal end",
-            "Acromial end"
+            "Sternal end"
           ]
         },
         {
@@ -577,9 +478,9 @@
           ],
           "answer": "Scapula",
           "view_label_pool": [
-            "Sternal end",
+            "Acromial end",
             "Clavicle",
-            "Acromial end"
+            "Sternal end"
           ]
         },
         {
@@ -596,9 +497,9 @@
           ],
           "answer": "Clavicle",
           "view_label_pool": [
+            "Acromial end",
             "Scapula",
-            "Sternal end",
-            "Acromial end"
+            "Sternal end"
           ]
         },
         {
@@ -615,9 +516,9 @@
           ],
           "answer": "Sternal end",
           "view_label_pool": [
-            "Scapula",
+            "Acromial end",
             "Clavicle",
-            "Acromial end"
+            "Scapula"
           ]
         },
         {
@@ -634,9 +535,9 @@
           ],
           "answer": "Acromial end",
           "view_label_pool": [
+            "Clavicle",
             "Scapula",
-            "Sternal end",
-            "Clavicle"
+            "Sternal end"
           ]
         },
         {
@@ -653,17 +554,17 @@
           ],
           "answer": "Acromion",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -680,17 +581,17 @@
           ],
           "answer": "Coracoid process",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
             "Glenoid cavity",
-            "Lateral border"
+            "Infraspinous fossa",
+            "Lateral border",
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -707,17 +608,17 @@
           ],
           "answer": "Glenoid cavity",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
+            "Coracoid process",
             "Infraspinous fossa",
-            "Spine",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -734,17 +635,17 @@
           ],
           "answer": "Scapula",
           "view_label_pool": [
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -761,17 +662,17 @@
           ],
           "answer": "Subscapular fossa",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -788,17 +689,17 @@
           ],
           "answer": "Right",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -815,17 +716,17 @@
           ],
           "answer": "Lateral border",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
-            "Coracoid process"
+            "Infraspinous fossa",
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -842,17 +743,17 @@
           ],
           "answer": "Medial border",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -869,17 +770,17 @@
           ],
           "answer": "Acromion",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -896,17 +797,17 @@
           ],
           "answer": "Superior border",
           "view_label_pool": [
-            "Scapula",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -923,17 +824,17 @@
           ],
           "answer": "Coracoid process",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
             "Glenoid cavity",
-            "Lateral border"
+            "Infraspinous fossa",
+            "Lateral border",
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -950,17 +851,17 @@
           ],
           "answer": "Supraspinous fossa",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border"
           ]
         },
         {
@@ -977,17 +878,17 @@
           ],
           "answer": "Spine",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -1004,17 +905,17 @@
           ],
           "answer": "Glenoid cavity",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
+            "Coracoid process",
             "Infraspinous fossa",
-            "Spine",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -1031,17 +932,17 @@
           ],
           "answer": "Infraspinous fossa",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
             "Lateral border",
-            "Coracoid process"
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -1058,17 +959,17 @@
           ],
           "answer": "Medial border",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
+            "Infraspinous fossa",
             "Lateral border",
-            "Coracoid process"
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -1085,17 +986,17 @@
           ],
           "answer": "Lateral border",
           "view_label_pool": [
-            "Scapula",
-            "Superior border",
-            "Supraspinous fossa",
-            "Right",
-            "Medial border",
-            "Subscapular fossa",
             "Acromion",
-            "Infraspinous fossa",
-            "Spine",
+            "Coracoid process",
             "Glenoid cavity",
-            "Coracoid process"
+            "Infraspinous fossa",
+            "Medial border",
+            "Right",
+            "Scapula",
+            "Spine",
+            "Subscapular fossa",
+            "Superior border",
+            "Supraspinous fossa"
           ]
         },
         {
@@ -1112,14 +1013,14 @@
           ],
           "answer": "Head",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Deltoid tuberosity",
-            "Surgical neck",
-            "Right",
             "Anatomical neck",
+            "Deltoid tuberosity",
             "Greater tubercle",
             "Humerus",
-            "Lesser tubercle"
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1136,14 +1037,14 @@
           ],
           "answer": "Greater tubercle",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Deltoid tuberosity",
-            "Surgical neck",
-            "Right",
-            "Head",
             "Anatomical neck",
+            "Deltoid tuberosity",
+            "Head",
             "Humerus",
-            "Lesser tubercle"
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1160,14 +1061,14 @@
           ],
           "answer": "Greater tubercle",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Deltoid tuberosity",
-            "Surgical neck",
-            "Right",
-            "Head",
             "Anatomical neck",
+            "Deltoid tuberosity",
+            "Head",
             "Humerus",
-            "Lesser tubercle"
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1184,14 +1085,14 @@
           ],
           "answer": "Intertubercular sulcus",
           "view_label_pool": [
-            "Deltoid tuberosity",
-            "Surgical neck",
-            "Right",
-            "Head",
             "Anatomical neck",
+            "Deltoid tuberosity",
             "Greater tubercle",
+            "Head",
             "Humerus",
-            "Lesser tubercle"
+            "Lesser tubercle",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1208,14 +1109,14 @@
           ],
           "answer": "Anatomical neck",
           "view_label_pool": [
-            "Intertubercular sulcus",
             "Deltoid tuberosity",
-            "Surgical neck",
-            "Right",
-            "Head",
             "Greater tubercle",
+            "Head",
             "Humerus",
-            "Lesser tubercle"
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1232,14 +1133,14 @@
           ],
           "answer": "Lesser tubercle",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Deltoid tuberosity",
-            "Surgical neck",
-            "Right",
-            "Head",
             "Anatomical neck",
+            "Deltoid tuberosity",
             "Greater tubercle",
-            "Humerus"
+            "Head",
+            "Humerus",
+            "Intertubercular sulcus",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1256,14 +1157,14 @@
           ],
           "answer": "Surgical neck",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Deltoid tuberosity",
-            "Right",
-            "Head",
             "Anatomical neck",
+            "Deltoid tuberosity",
             "Greater tubercle",
+            "Head",
             "Humerus",
-            "Lesser tubercle"
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Right"
           ]
         },
         {
@@ -1280,14 +1181,14 @@
           ],
           "answer": "Deltoid tuberosity",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Surgical neck",
-            "Right",
-            "Head",
             "Anatomical neck",
             "Greater tubercle",
+            "Head",
             "Humerus",
-            "Lesser tubercle"
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1304,14 +1205,14 @@
           ],
           "answer": "Humerus",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Deltoid tuberosity",
-            "Surgical neck",
-            "Right",
-            "Head",
             "Anatomical neck",
+            "Deltoid tuberosity",
             "Greater tubercle",
-            "Lesser tubercle"
+            "Head",
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Right",
+            "Surgical neck"
           ]
         },
         {
@@ -1328,14 +1229,14 @@
           ],
           "answer": "Right",
           "view_label_pool": [
-            "Intertubercular sulcus",
-            "Deltoid tuberosity",
-            "Surgical neck",
-            "Head",
             "Anatomical neck",
+            "Deltoid tuberosity",
             "Greater tubercle",
+            "Head",
             "Humerus",
-            "Lesser tubercle"
+            "Intertubercular sulcus",
+            "Lesser tubercle",
+            "Surgical neck"
           ]
         },
         {
@@ -1352,12 +1253,12 @@
           ],
           "answer": "Olecranon fossa",
           "view_label_pool": [
-            "Lateral epicondyle",
-            "Radial fossa",
-            "Coronoid fossa",
             "Capitulum",
-            "Trochlea",
-            "Medial epicondyle"
+            "Coronoid fossa",
+            "Lateral epicondyle",
+            "Medial epicondyle",
+            "Radial fossa",
+            "Trochlea"
           ]
         },
         {
@@ -1374,12 +1275,12 @@
           ],
           "answer": "Coronoid fossa",
           "view_label_pool": [
-            "Lateral epicondyle",
-            "Radial fossa",
             "Capitulum",
-            "Trochlea",
+            "Lateral epicondyle",
+            "Medial epicondyle",
             "Olecranon fossa",
-            "Medial epicondyle"
+            "Radial fossa",
+            "Trochlea"
           ]
         },
         {
@@ -1396,12 +1297,12 @@
           ],
           "answer": "Radial fossa",
           "view_label_pool": [
-            "Lateral epicondyle",
-            "Coronoid fossa",
             "Capitulum",
-            "Trochlea",
+            "Coronoid fossa",
+            "Lateral epicondyle",
+            "Medial epicondyle",
             "Olecranon fossa",
-            "Medial epicondyle"
+            "Trochlea"
           ]
         },
         {
@@ -1418,12 +1319,12 @@
           ],
           "answer": "Medial epicondyle",
           "view_label_pool": [
-            "Lateral epicondyle",
-            "Radial fossa",
-            "Coronoid fossa",
             "Capitulum",
-            "Trochlea",
-            "Olecranon fossa"
+            "Coronoid fossa",
+            "Lateral epicondyle",
+            "Olecranon fossa",
+            "Radial fossa",
+            "Trochlea"
           ]
         },
         {
@@ -1440,12 +1341,12 @@
           ],
           "answer": "Lateral epicondyle",
           "view_label_pool": [
-            "Radial fossa",
-            "Coronoid fossa",
             "Capitulum",
-            "Trochlea",
+            "Coronoid fossa",
+            "Medial epicondyle",
             "Olecranon fossa",
-            "Medial epicondyle"
+            "Radial fossa",
+            "Trochlea"
           ]
         },
         {
@@ -1462,12 +1363,12 @@
           ],
           "answer": "Lateral epicondyle",
           "view_label_pool": [
-            "Radial fossa",
-            "Coronoid fossa",
             "Capitulum",
-            "Trochlea",
+            "Coronoid fossa",
+            "Medial epicondyle",
             "Olecranon fossa",
-            "Medial epicondyle"
+            "Radial fossa",
+            "Trochlea"
           ]
         },
         {
@@ -1484,12 +1385,12 @@
           ],
           "answer": "Trochlea",
           "view_label_pool": [
-            "Lateral epicondyle",
-            "Radial fossa",
-            "Coronoid fossa",
             "Capitulum",
+            "Coronoid fossa",
+            "Lateral epicondyle",
+            "Medial epicondyle",
             "Olecranon fossa",
-            "Medial epicondyle"
+            "Radial fossa"
           ]
         },
         {
@@ -1506,12 +1407,12 @@
           ],
           "answer": "Capitulum",
           "view_label_pool": [
-            "Lateral epicondyle",
-            "Radial fossa",
             "Coronoid fossa",
-            "Trochlea",
+            "Lateral epicondyle",
+            "Medial epicondyle",
             "Olecranon fossa",
-            "Medial epicondyle"
+            "Radial fossa",
+            "Trochlea"
           ]
         },
         {
@@ -1528,14 +1429,14 @@
           ],
           "answer": "Olecranon process",
           "view_label_pool": [
+            "Coronoid process",
+            "Head",
             "Neck",
             "Olecranon",
-            "Trochlear notch",
-            "Head",
-            "Coronoid process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1552,14 +1453,14 @@
           ],
           "answer": "Olecranon",
           "view_label_pool": [
-            "Neck",
-            "Trochlear notch",
-            "Head",
-            "Olecranon process",
             "Coronoid process",
+            "Head",
+            "Neck",
+            "Olecranon process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1576,14 +1477,14 @@
           ],
           "answer": "Trochlear notch",
           "view_label_pool": [
+            "Coronoid process",
+            "Head",
             "Neck",
             "Olecranon",
-            "Head",
             "Olecranon process",
-            "Coronoid process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Ulna"
           ]
         },
         {
@@ -1600,14 +1501,14 @@
           ],
           "answer": "Coronoid process",
           "view_label_pool": [
+            "Head",
             "Neck",
             "Olecranon",
-            "Trochlear notch",
-            "Head",
             "Olecranon process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1624,14 +1525,14 @@
           ],
           "answer": "Head",
           "view_label_pool": [
+            "Coronoid process",
             "Neck",
             "Olecranon",
-            "Trochlear notch",
             "Olecranon process",
-            "Coronoid process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1648,14 +1549,14 @@
           ],
           "answer": "Head",
           "view_label_pool": [
+            "Coronoid process",
             "Neck",
             "Olecranon",
-            "Trochlear notch",
             "Olecranon process",
-            "Coronoid process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1672,14 +1573,14 @@
           ],
           "answer": "Neck",
           "view_label_pool": [
-            "Olecranon",
-            "Trochlear notch",
-            "Head",
-            "Olecranon process",
             "Coronoid process",
+            "Head",
+            "Olecranon",
+            "Olecranon process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1696,14 +1597,14 @@
           ],
           "answer": "Neck",
           "view_label_pool": [
-            "Olecranon",
-            "Trochlear notch",
-            "Head",
-            "Olecranon process",
             "Coronoid process",
+            "Head",
+            "Olecranon",
+            "Olecranon process",
+            "Radial tuberosity",
             "Radius",
-            "Ulna",
-            "Radial tuberosity"
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1720,13 +1621,13 @@
           ],
           "answer": "Radial tuberosity",
           "view_label_pool": [
-            "Olecranon",
-            "Trochlear notch",
-            "Neck",
-            "Head",
-            "Olecranon process",
             "Coronoid process",
+            "Head",
+            "Neck",
+            "Olecranon",
+            "Olecranon process",
             "Radius",
+            "Trochlear notch",
             "Ulna"
           ]
         },
@@ -1744,14 +1645,14 @@
           ],
           "answer": "Radius",
           "view_label_pool": [
-            "Olecranon",
-            "Trochlear notch",
-            "Neck",
-            "Head",
-            "Olecranon process",
             "Coronoid process",
-            "Ulna",
-            "Radial tuberosity"
+            "Head",
+            "Neck",
+            "Olecranon",
+            "Olecranon process",
+            "Radial tuberosity",
+            "Trochlear notch",
+            "Ulna"
           ]
         },
         {
@@ -1768,14 +1669,14 @@
           ],
           "answer": "Ulna",
           "view_label_pool": [
-            "Olecranon",
-            "Trochlear notch",
-            "Neck",
-            "Head",
-            "Olecranon process",
             "Coronoid process",
+            "Head",
+            "Neck",
+            "Olecranon",
+            "Olecranon process",
+            "Radial tuberosity",
             "Radius",
-            "Radial tuberosity"
+            "Trochlear notch"
           ]
         },
         {
@@ -1877,13 +1778,13 @@
           ],
           "answer": "Lunate",
           "view_label_pool": [
-            "Trapezium",
-            "Triquetrum",
-            "Pisiform",
             "Capitate",
-            "Scaphoid",
             "Hamate",
-            "Trapezoid"
+            "Pisiform",
+            "Scaphoid",
+            "Trapezium",
+            "Trapezoid",
+            "Triquetrum"
           ]
         },
         {
@@ -1900,13 +1801,13 @@
           ],
           "answer": "Scaphoid",
           "view_label_pool": [
-            "Trapezium",
-            "Triquetrum",
-            "Lunate",
-            "Pisiform",
             "Capitate",
             "Hamate",
-            "Trapezoid"
+            "Lunate",
+            "Pisiform",
+            "Trapezium",
+            "Trapezoid",
+            "Triquetrum"
           ]
         },
         {
@@ -1923,12 +1824,12 @@
           ],
           "answer": "Triquetrum",
           "view_label_pool": [
-            "Trapezium",
+            "Capitate",
+            "Hamate",
             "Lunate",
             "Pisiform",
-            "Capitate",
             "Scaphoid",
-            "Hamate",
+            "Trapezium",
             "Trapezoid"
           ]
         },
@@ -1946,13 +1847,13 @@
           ],
           "answer": "Trapezium",
           "view_label_pool": [
-            "Triquetrum",
+            "Capitate",
+            "Hamate",
             "Lunate",
             "Pisiform",
-            "Capitate",
             "Scaphoid",
-            "Hamate",
-            "Trapezoid"
+            "Trapezoid",
+            "Triquetrum"
           ]
         },
         {
@@ -1969,13 +1870,13 @@
           ],
           "answer": "Pisiform",
           "view_label_pool": [
-            "Trapezium",
-            "Triquetrum",
-            "Lunate",
             "Capitate",
-            "Scaphoid",
             "Hamate",
-            "Trapezoid"
+            "Lunate",
+            "Scaphoid",
+            "Trapezium",
+            "Trapezoid",
+            "Triquetrum"
           ]
         },
         {
@@ -1992,13 +1893,13 @@
           ],
           "answer": "Trapezoid",
           "view_label_pool": [
-            "Trapezium",
-            "Triquetrum",
-            "Pisiform",
             "Capitate",
-            "Scaphoid",
             "Hamate",
-            "Lunate"
+            "Lunate",
+            "Pisiform",
+            "Scaphoid",
+            "Trapezium",
+            "Triquetrum"
           ]
         },
         {
@@ -2015,13 +1916,13 @@
           ],
           "answer": "Capitate",
           "view_label_pool": [
-            "Trapezium",
-            "Triquetrum",
-            "Trapezoid",
+            "Hamate",
+            "Lunate",
             "Pisiform",
             "Scaphoid",
-            "Hamate",
-            "Lunate"
+            "Trapezium",
+            "Trapezoid",
+            "Triquetrum"
           ]
         },
         {
@@ -2038,13 +1939,13 @@
           ],
           "answer": "Hamate",
           "view_label_pool": [
-            "Trapezium",
-            "Triquetrum",
-            "Trapezoid",
-            "Pisiform",
             "Capitate",
+            "Lunate",
+            "Pisiform",
             "Scaphoid",
-            "Lunate"
+            "Trapezium",
+            "Trapezoid",
+            "Triquetrum"
           ]
         },
         {
@@ -2061,8 +1962,8 @@
           ],
           "answer": "Proximal phalange V",
           "view_label_pool": [
-            "Middle phalange V",
-            "Distal phalange V"
+            "Distal phalange V",
+            "Middle phalange V"
           ]
         },
         {
@@ -2115,15 +2016,15 @@
           ],
           "answer": "False pelvis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Ischial spine",
             "Coccyx",
             "Iliac crest",
-            "True pelvis",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2140,15 +2041,15 @@
           ],
           "answer": "Iliac crest",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2165,15 +2066,15 @@
           ],
           "answer": "Sacral canal",
           "view_label_pool": [
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2190,15 +2091,15 @@
           ],
           "answer": "Iliac fossa",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
-            "Pubis"
+            "Iliac crest",
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2215,15 +2116,15 @@
           ],
           "answer": "Sacrum",
           "view_label_pool": [
-            "Sacral canal",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "True pelvis"
           ]
         },
         {
@@ -2240,15 +2141,15 @@
           ],
           "answer": "Ischial spine",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2265,15 +2166,15 @@
           ],
           "answer": "Coccyx",
           "view_label_pool": [
+            "False pelvis",
+            "Iliac crest",
+            "Iliac fossa",
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
             "Sacral canal",
             "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
-            "False pelvis",
-            "True pelvis",
-            "Iliac fossa",
-            "Pubis"
+            "True pelvis"
           ]
         },
         {
@@ -2290,15 +2191,15 @@
           ],
           "answer": "True pelvis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum"
           ]
         },
         {
@@ -2315,15 +2216,15 @@
           ],
           "answer": "Pubis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
-            "Iliac fossa"
+            "Iliac crest",
+            "Iliac fossa",
+            "Ischial spine",
+            "Pubic symphysis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2340,15 +2241,15 @@
           ],
           "answer": "Pubic symphysis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2365,15 +2266,15 @@
           ],
           "answer": "Iliac crest",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2390,15 +2291,15 @@
           ],
           "answer": "False pelvis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Ischial spine",
             "Coccyx",
             "Iliac crest",
-            "True pelvis",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2415,15 +2316,15 @@
           ],
           "answer": "Sacral canal",
           "view_label_pool": [
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2440,15 +2341,15 @@
           ],
           "answer": "Iliac fossa",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
-            "Pubis"
+            "Iliac crest",
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2465,15 +2366,15 @@
           ],
           "answer": "Sacrum",
           "view_label_pool": [
-            "Sacral canal",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "True pelvis"
           ]
         },
         {
@@ -2490,15 +2391,15 @@
           ],
           "answer": "Ischial spine",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2515,15 +2416,15 @@
           ],
           "answer": "Coccyx",
           "view_label_pool": [
+            "False pelvis",
+            "Iliac crest",
+            "Iliac fossa",
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
             "Sacral canal",
             "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
-            "False pelvis",
-            "True pelvis",
-            "Iliac fossa",
-            "Pubis"
+            "True pelvis"
           ]
         },
         {
@@ -2540,15 +2441,15 @@
           ],
           "answer": "True pelvis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubic symphysis",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum"
           ]
         },
         {
@@ -2565,15 +2466,15 @@
           ],
           "answer": "Pubis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Pubic symphysis",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
-            "Iliac fossa"
+            "Iliac crest",
+            "Iliac fossa",
+            "Ischial spine",
+            "Pubic symphysis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2590,15 +2491,15 @@
           ],
           "answer": "Pubic symphysis",
           "view_label_pool": [
-            "Sacral canal",
-            "Sacrum",
-            "Iliac crest",
-            "Ischial spine",
             "Coccyx",
             "False pelvis",
-            "True pelvis",
+            "Iliac crest",
             "Iliac fossa",
-            "Pubis"
+            "Ischial spine",
+            "Pubis",
+            "Sacral canal",
+            "Sacrum",
+            "True pelvis"
           ]
         },
         {
@@ -2615,23 +2516,23 @@
           ],
           "answer": "Right",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
+            "(Pubic symphysis)",
             "Acetabulum",
             "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
-            "(Pubic symphysis)",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis"
           ]
         },
         {
@@ -2648,23 +2549,23 @@
           ],
           "answer": "Os coxae",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Pubis"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2681,23 +2582,23 @@
           ],
           "answer": "Iliac crest",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2714,23 +2615,23 @@
           ],
           "answer": "Iliac fossa",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Anterior inferior iliac spine",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2747,23 +2648,23 @@
           ],
           "answer": "Anterior superior iliac spine",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2780,23 +2681,23 @@
           ],
           "answer": "Posterior superior iliac spine",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2813,23 +2714,23 @@
           ],
           "answer": "Posterior superior iliac spine",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2846,23 +2747,23 @@
           ],
           "answer": "Posterior inferior iliac spine",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2879,23 +2780,23 @@
           ],
           "answer": "Anterior inferior iliac spine",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2912,23 +2813,23 @@
           ],
           "answer": "Posterior inferior iliac spine",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2945,23 +2846,23 @@
           ],
           "answer": "Greater sciatic notch",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -2978,23 +2879,23 @@
           ],
           "answer": "Acetabulum",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3011,23 +2912,23 @@
           ],
           "answer": "Greater sciatic notch",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3044,23 +2945,23 @@
           ],
           "answer": "Ischial spine",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
-            "Ilium",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
-            "Ischium",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
             "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
             "Iliac fossa",
-            "Os coxae"
+            "Ilium",
+            "Ischial tuberosity",
+            "Ischium",
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3077,23 +2978,23 @@
           ],
           "answer": "Lesser sciatic norch",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
-            "Ilium",
-            "Ischial spine",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
             "Greater sciatic notch",
             "Iliac crest",
-            "Ischium",
-            "Anterior superior iliac spine",
             "Iliac fossa",
-            "Os coxae"
+            "Ilium",
+            "Ischial spine",
+            "Ischial tuberosity",
+            "Ischium",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3110,23 +3011,23 @@
           ],
           "answer": "Oburtator foramen",
           "view_label_pool": [
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3143,23 +3044,23 @@
           ],
           "answer": "Ischial tuberosity",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3176,23 +3077,23 @@
           ],
           "answer": "(Pubic symphysis)",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
             "Acetabulum",
-            "Right",
             "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3209,23 +3110,23 @@
           ],
           "answer": "Ischium",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
+            "Ischial tuberosity",
             "Lesser sciatic norch",
-            "Iliac crest",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3242,23 +3143,23 @@
           ],
           "answer": "Ilium",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
-            "Pubis",
             "(Pubic symphysis)",
-            "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
-            "Ischium",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
             "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
             "Iliac fossa",
-            "Os coxae"
+            "Ischial spine",
+            "Ischial tuberosity",
+            "Ischium",
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Pubis",
+            "Right"
           ]
         },
         {
@@ -3275,23 +3176,23 @@
           ],
           "answer": "Pubis",
           "view_label_pool": [
-            "Oburtator foramen",
-            "Posterior superior iliac spine",
-            "Acetabulum",
-            "Right",
-            "Anterior inferior iliac spine",
-            "Posterior inferior iliac spine",
-            "Ischial tuberosity",
             "(Pubic symphysis)",
+            "Acetabulum",
+            "Anterior inferior iliac spine",
+            "Anterior superior iliac spine",
+            "Greater sciatic notch",
+            "Iliac crest",
+            "Iliac fossa",
             "Ilium",
             "Ischial spine",
-            "Greater sciatic notch",
-            "Lesser sciatic norch",
-            "Iliac crest",
+            "Ischial tuberosity",
             "Ischium",
-            "Anterior superior iliac spine",
-            "Iliac fossa",
-            "Os coxae"
+            "Lesser sciatic norch",
+            "Oburtator foramen",
+            "Os coxae",
+            "Posterior inferior iliac spine",
+            "Posterior superior iliac spine",
+            "Right"
           ]
         },
         {
@@ -3308,13 +3209,13 @@
           ],
           "answer": "Head",
           "view_label_pool": [
-            "Neck",
-            "Greater trochanter",
-            "Right",
-            "Lesser trochanter",
-            "Gluteal tuberosity",
             "Femur",
-            "Linea aspera"
+            "Gluteal tuberosity",
+            "Greater trochanter",
+            "Lesser trochanter",
+            "Linea aspera",
+            "Neck",
+            "Right"
           ]
         },
         {
@@ -3331,13 +3232,13 @@
           ],
           "answer": "Greater trochanter",
           "view_label_pool": [
-            "Neck",
-            "Right",
+            "Femur",
+            "Gluteal tuberosity",
             "Head",
             "Lesser trochanter",
-            "Gluteal tuberosity",
-            "Femur",
-            "Linea aspera"
+            "Linea aspera",
+            "Neck",
+            "Right"
           ]
         },
         {
@@ -3354,13 +3255,13 @@
           ],
           "answer": "Neck",
           "view_label_pool": [
+            "Femur",
+            "Gluteal tuberosity",
             "Greater trochanter",
-            "Right",
             "Head",
             "Lesser trochanter",
-            "Gluteal tuberosity",
-            "Femur",
-            "Linea aspera"
+            "Linea aspera",
+            "Right"
           ]
         },
         {
@@ -3377,13 +3278,13 @@
           ],
           "answer": "Lesser trochanter",
           "view_label_pool": [
-            "Neck",
-            "Greater trochanter",
-            "Right",
-            "Head",
-            "Gluteal tuberosity",
             "Femur",
-            "Linea aspera"
+            "Gluteal tuberosity",
+            "Greater trochanter",
+            "Head",
+            "Linea aspera",
+            "Neck",
+            "Right"
           ]
         },
         {
@@ -3400,13 +3301,13 @@
           ],
           "answer": "Gluteal tuberosity",
           "view_label_pool": [
-            "Neck",
+            "Femur",
             "Greater trochanter",
-            "Right",
             "Head",
             "Lesser trochanter",
-            "Femur",
-            "Linea aspera"
+            "Linea aspera",
+            "Neck",
+            "Right"
           ]
         },
         {
@@ -3423,13 +3324,13 @@
           ],
           "answer": "Linea aspera",
           "view_label_pool": [
-            "Neck",
+            "Femur",
+            "Gluteal tuberosity",
             "Greater trochanter",
-            "Right",
             "Head",
             "Lesser trochanter",
-            "Gluteal tuberosity",
-            "Femur"
+            "Neck",
+            "Right"
           ]
         },
         {
@@ -3446,13 +3347,13 @@
           ],
           "answer": "Femur",
           "view_label_pool": [
-            "Neck",
+            "Gluteal tuberosity",
             "Greater trochanter",
-            "Right",
             "Head",
             "Lesser trochanter",
-            "Gluteal tuberosity",
-            "Linea aspera"
+            "Linea aspera",
+            "Neck",
+            "Right"
           ]
         },
         {
@@ -3469,13 +3370,13 @@
           ],
           "answer": "Right",
           "view_label_pool": [
-            "Neck",
+            "Femur",
+            "Gluteal tuberosity",
             "Greater trochanter",
             "Head",
             "Lesser trochanter",
-            "Gluteal tuberosity",
-            "Femur",
-            "Linea aspera"
+            "Linea aspera",
+            "Neck"
           ]
         },
         {
@@ -3492,12 +3393,11 @@
           ],
           "answer": "Patellar surface",
           "view_label_pool": [
-            "Medial condyle",
-            "Lateral epicondyle",
-            "Lateral epicondyle Intercondylar fossa Lateral condyle",
             "Lateral condyle",
-            "Popliteal surface",
-            "Medial epicondyle"
+            "Lateral epicondyle",
+            "Medial condyle",
+            "Medial epicondyle",
+            "Popliteal surface"
           ]
         },
         {
@@ -3514,12 +3414,11 @@
           ],
           "answer": "Popliteal surface",
           "view_label_pool": [
-            "Medial condyle",
-            "Patellar surface",
-            "Lateral epicondyle",
-            "Lateral epicondyle Intercondylar fossa Lateral condyle",
             "Lateral condyle",
-            "Medial epicondyle"
+            "Lateral epicondyle",
+            "Medial condyle",
+            "Medial epicondyle",
+            "Patellar surface"
           ]
         },
         {
@@ -3536,11 +3435,10 @@
           ],
           "answer": "Medial epicondyle",
           "view_label_pool": [
+            "Lateral condyle",
+            "Lateral epicondyle",
             "Medial condyle",
             "Patellar surface",
-            "Lateral epicondyle",
-            "Lateral epicondyle Intercondylar fossa Lateral condyle",
-            "Lateral condyle",
             "Popliteal surface"
           ]
         },
@@ -3558,12 +3456,11 @@
           ],
           "answer": "Lateral epicondyle",
           "view_label_pool": [
-            "Medial condyle",
-            "Patellar surface",
-            "Lateral epicondyle Intercondylar fossa Lateral condyle",
             "Lateral condyle",
-            "Popliteal surface",
-            "Medial epicondyle"
+            "Medial condyle",
+            "Medial epicondyle",
+            "Patellar surface",
+            "Popliteal surface"
           ]
         },
         {
@@ -3580,12 +3477,11 @@
           ],
           "answer": "Patellar surface",
           "view_label_pool": [
-            "Medial condyle",
-            "Lateral epicondyle",
-            "Lateral epicondyle Intercondylar fossa Lateral condyle",
             "Lateral condyle",
-            "Popliteal surface",
-            "Medial epicondyle"
+            "Lateral epicondyle",
+            "Medial condyle",
+            "Medial epicondyle",
+            "Popliteal surface"
           ]
         },
         {
@@ -3602,12 +3498,11 @@
           ],
           "answer": "Lateral condyle",
           "view_label_pool": [
-            "Medial condyle",
-            "Patellar surface",
             "Lateral epicondyle",
-            "Lateral epicondyle Intercondylar fossa Lateral condyle",
-            "Popliteal surface",
-            "Medial epicondyle"
+            "Medial condyle",
+            "Medial epicondyle",
+            "Patellar surface",
+            "Popliteal surface"
           ]
         },
         {
@@ -3624,12 +3519,11 @@
           ],
           "answer": "Medial condyle",
           "view_label_pool": [
-            "Patellar surface",
-            "Lateral epicondyle",
-            "Lateral epicondyle Intercondylar fossa Lateral condyle",
             "Lateral condyle",
-            "Popliteal surface",
-            "Medial epicondyle"
+            "Lateral epicondyle",
+            "Medial epicondyle",
+            "Patellar surface",
+            "Popliteal surface"
           ]
         },
         {
@@ -3646,14 +3540,14 @@
           ],
           "answer": "Medial condyle",
           "view_label_pool": [
-            "Fibula",
-            "Right",
-            "Head",
             "Anterior border/crest",
-            "Tibial tuberosity",
-            "Tibia",
+            "Fibula",
+            "Head",
+            "Intercondylar eminence",
             "Lateral condyle",
-            "Intercondylar eminence"
+            "Right",
+            "Tibia",
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3670,14 +3564,14 @@
           ],
           "answer": "Lateral condyle",
           "view_label_pool": [
-            "Medial condyle",
-            "Fibula",
-            "Right",
-            "Head",
             "Anterior border/crest",
-            "Tibial tuberosity",
+            "Fibula",
+            "Head",
+            "Intercondylar eminence",
+            "Medial condyle",
+            "Right",
             "Tibia",
-            "Intercondylar eminence"
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3694,14 +3588,14 @@
           ],
           "answer": "Lateral condyle",
           "view_label_pool": [
-            "Medial condyle",
-            "Fibula",
-            "Right",
-            "Head",
             "Anterior border/crest",
-            "Tibial tuberosity",
+            "Fibula",
+            "Head",
+            "Intercondylar eminence",
+            "Medial condyle",
+            "Right",
             "Tibia",
-            "Intercondylar eminence"
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3718,14 +3612,14 @@
           ],
           "answer": "Intercondylar eminence",
           "view_label_pool": [
-            "Medial condyle",
-            "Fibula",
-            "Right",
-            "Head",
             "Anterior border/crest",
-            "Tibial tuberosity",
+            "Fibula",
+            "Head",
+            "Lateral condyle",
+            "Medial condyle",
+            "Right",
             "Tibia",
-            "Lateral condyle"
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3742,14 +3636,14 @@
           ],
           "answer": "Head",
           "view_label_pool": [
-            "Medial condyle",
-            "Fibula",
-            "Right",
             "Anterior border/crest",
-            "Tibial tuberosity",
-            "Tibia",
+            "Fibula",
+            "Intercondylar eminence",
             "Lateral condyle",
-            "Intercondylar eminence"
+            "Medial condyle",
+            "Right",
+            "Tibia",
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3766,14 +3660,14 @@
           ],
           "answer": "Head",
           "view_label_pool": [
-            "Medial condyle",
-            "Fibula",
-            "Right",
             "Anterior border/crest",
-            "Tibial tuberosity",
-            "Tibia",
+            "Fibula",
+            "Intercondylar eminence",
             "Lateral condyle",
-            "Intercondylar eminence"
+            "Medial condyle",
+            "Right",
+            "Tibia",
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3790,14 +3684,14 @@
           ],
           "answer": "Tibial tuberosity",
           "view_label_pool": [
-            "Medial condyle",
-            "Fibula",
-            "Right",
-            "Head",
             "Anterior border/crest",
-            "Tibia",
+            "Fibula",
+            "Head",
+            "Intercondylar eminence",
             "Lateral condyle",
-            "Intercondylar eminence"
+            "Medial condyle",
+            "Right",
+            "Tibia"
           ]
         },
         {
@@ -3814,14 +3708,14 @@
           ],
           "answer": "Anterior border/crest",
           "view_label_pool": [
-            "Medial condyle",
             "Fibula",
-            "Right",
             "Head",
-            "Tibial tuberosity",
-            "Tibia",
+            "Intercondylar eminence",
             "Lateral condyle",
-            "Intercondylar eminence"
+            "Medial condyle",
+            "Right",
+            "Tibia",
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3838,14 +3732,14 @@
           ],
           "answer": "Fibula",
           "view_label_pool": [
+            "Anterior border/crest",
+            "Head",
+            "Intercondylar eminence",
+            "Lateral condyle",
             "Medial condyle",
             "Right",
-            "Head",
-            "Anterior border/crest",
-            "Tibial tuberosity",
             "Tibia",
-            "Lateral condyle",
-            "Intercondylar eminence"
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3862,14 +3756,14 @@
           ],
           "answer": "Tibia",
           "view_label_pool": [
-            "Medial condyle",
-            "Fibula",
-            "Right",
-            "Head",
             "Anterior border/crest",
-            "Tibial tuberosity",
+            "Fibula",
+            "Head",
+            "Intercondylar eminence",
             "Lateral condyle",
-            "Intercondylar eminence"
+            "Medial condyle",
+            "Right",
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3886,14 +3780,14 @@
           ],
           "answer": "Right",
           "view_label_pool": [
-            "Medial condyle",
+            "Anterior border/crest",
             "Fibula",
             "Head",
-            "Anterior border/crest",
-            "Tibial tuberosity",
-            "Tibia",
+            "Intercondylar eminence",
             "Lateral condyle",
-            "Intercondylar eminence"
+            "Medial condyle",
+            "Tibia",
+            "Tibial tuberosity"
           ]
         },
         {
@@ -3961,16 +3855,16 @@
           ],
           "answer": "Calcaneus",
           "view_label_pool": [
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
-            "Talus",
             "Navicular",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -3988,15 +3882,15 @@
           "answer": "Talus",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
             "Navicular",
-            "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Proximal phalange II"
           ]
         },
         {
@@ -4014,15 +3908,15 @@
           "answer": "Navicular",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
-            "Talus",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4040,15 +3934,15 @@
           "answer": "Cuboid",
           "view_label_pool": [
             "Calcaneus",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
-            "Talus",
             "Navicular",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4066,15 +3960,15 @@
           "answer": "Lateral cuneiform",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
-            "Talus",
             "Navicular",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4092,15 +3986,15 @@
           "answer": "Intermediate cuneiform",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
-            "Talus",
             "Navicular",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4118,15 +4012,15 @@
           "answer": "Medial cuneiform",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
             "Metatarsals",
-            "Talus",
+            "Middle phalange II",
             "Navicular",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Middle phalange II",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4144,15 +4038,15 @@
           "answer": "Metatarsals",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Middle phalange II",
-            "Talus",
             "Navicular",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4170,15 +4064,15 @@
           "answer": "Proximal phalange II",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
-            "Talus",
             "Navicular",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4196,15 +4090,15 @@
           "answer": "Middle phalange II",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Distal phalange II",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
-            "Talus",
             "Navicular",
             "Proximal phalange II",
-            "Distal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         },
         {
@@ -4222,15 +4116,15 @@
           "answer": "Distal phalange II",
           "view_label_pool": [
             "Calcaneus",
+            "Cuboid",
+            "Intermediate cuneiform",
+            "Lateral cuneiform",
+            "Medial cuneiform",
             "Metatarsals",
             "Middle phalange II",
-            "Talus",
             "Navicular",
             "Proximal phalange II",
-            "Cuboid",
-            "Medial cuneiform",
-            "Lateral cuneiform",
-            "Intermediate cuneiform"
+            "Talus"
           ]
         }
       ]
@@ -4770,7 +4664,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -4804,7 +4697,6 @@
             "Frontal bone",
             "Lacrimal bone",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -4839,7 +4731,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -4875,7 +4766,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -4910,7 +4800,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Maxilla bone",
             "Mental protuberance",
@@ -4945,7 +4834,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -4980,7 +4868,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5014,7 +4901,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5050,7 +4936,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mastoid process",
             "Maxilla bone",
             "Mental protuberance",
@@ -5084,7 +4969,6 @@
             "Frontal bone",
             "Lacrimal bone",
             "Lambdoid suture",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5119,7 +5003,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5154,7 +5037,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5189,7 +5071,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5225,7 +5106,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5259,7 +5139,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5295,7 +5174,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5329,7 +5207,6 @@
             "Frontal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5365,7 +5242,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5400,44 +5276,8 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
-            "Mental protuberance",
-            "Nasal bone",
-            "Occipital bone",
-            "Parietal bone",
-            "Sphenoid bone",
-            "Squamous suture",
-            "Temporal bone",
-            "Zygomatic bone",
-            "Zygomatic process"
-          ]
-        },
-        {
-          "image": "images/w4_p3_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            1328,
-            977,
-            1503,
-            1043
-          ],
-          "answer": "Mandible Mental foramen",
-          "view_label_pool": [
-            "Alveolar process",
-            "Coronal suture",
-            "Coronoid process",
-            "Ethmoid bone",
-            "External acoustic meatus",
-            "Frontal bone",
-            "Lacrimal bone",
-            "Lambdoid suture",
-            "Lateral",
-            "Mandibular condyle",
-            "Mastoid process",
-            "Maxilla bone",
             "Mental protuberance",
             "Nasal bone",
             "Occipital bone",
@@ -5470,7 +5310,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5505,7 +5344,6 @@
             "Lacrimal bone",
             "Lambdoid suture",
             "Lateral",
-            "Mandible Mental foramen",
             "Mandibular condyle",
             "Mastoid process",
             "Maxilla bone",
@@ -5536,8 +5374,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture"
@@ -5559,8 +5395,6 @@
             "Frontal bone",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture",
@@ -5584,8 +5418,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Posterior",
             "Sagittal suture",
             "Superior"
@@ -5608,8 +5440,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Superior"
@@ -5631,8 +5461,6 @@
             "Frontal bone",
             "Lambdoid suture",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture",
@@ -5655,8 +5483,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture",
@@ -5679,8 +5505,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture",
@@ -5703,8 +5527,6 @@
             "Frontal bone",
             "Lambdoid suture",
             "Occipital bone",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture",
@@ -5727,8 +5549,6 @@
             "Frontal bone",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture",
@@ -5752,8 +5572,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Superior"
@@ -5774,9 +5592,7 @@
             "Coronal suture",
             "Frontal bone",
             "Lambdoid suture",
-            "Occipital bone",
             "Occipital protuberance",
-            "Parietal bone",
             "Parietal bone",
             "Posterior",
             "Sagittal suture",
@@ -5800,8 +5616,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Posterior",
             "Sagittal suture",
             "Superior"
@@ -5824,8 +5638,6 @@
             "Lambdoid suture",
             "Occipital bone",
             "Occipital protuberance",
-            "Occipital bone",
-            "Parietal bone",
             "Parietal bone",
             "Sagittal suture",
             "Superior"
@@ -6052,7 +5864,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6079,7 +5890,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6106,7 +5916,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6132,34 +5941,6 @@
             "Greater wings",
             "Jugular foramen",
             "Lesser wings",
-            "Optic foramen/",
-            "Transverse",
-            "canal"
-          ]
-        },
-        {
-          "image": "images/w4_p6_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            542,
-            65,
-            666,
-            93
-          ],
-          "answer": "Transverse",
-          "view_label_pool": [
-            "Cribriform plate",
-            "Crista galli",
-            "Foramen lacerum",
-            "Foramen magnum",
-            "Foramen ovale",
-            "Foramen rotundum",
-            "Frontal bone",
-            "Greater wings",
-            "Jugular foramen",
-            "Lesser wings",
-            "Occipital bone",
             "Optic foramen/",
             "canal"
           ]
@@ -6187,7 +5968,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6214,7 +5994,6 @@
             "Jugular foramen",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6241,7 +6020,6 @@
             "Jugular foramen",
             "Lesser wings",
             "Occipital bone",
-            "Transverse",
             "canal"
           ]
         },
@@ -6268,8 +6046,7 @@
             "Jugular foramen",
             "Lesser wings",
             "Occipital bone",
-            "Optic foramen/",
-            "Transverse"
+            "Optic foramen/"
           ]
         },
         {
@@ -6295,7 +6072,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6322,7 +6098,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6349,7 +6124,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6376,7 +6150,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -6403,7 +6176,6 @@
             "Lesser wings",
             "Occipital bone",
             "Optic foramen/",
-            "Transverse",
             "canal"
           ]
         },
@@ -7332,38 +7104,6 @@
             "Axis",
             "Bifid spinous process",
             "Body",
-            "General cervical",
-            "Inferior articular facet",
-            "Lamina",
-            "Lamina Vertebral foramen",
-            "Pedicle",
-            "Posterior tubercle",
-            "Spinous process",
-            "Superior articular facet",
-            "Transverse foramen",
-            "Transverse process",
-            "Vertebral foramen"
-          ]
-        },
-        {
-          "image": "images/w4_p10_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            61,
-            875,
-            177,
-            988
-          ],
-          "answer": "Lamina Vertebral foramen",
-          "view_label_pool": [
-            "Anterior tubercle",
-            "Atlas",
-            "Axis",
-            "Bifid spinous process",
-            "Body",
-            "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
             "Pedicle",
@@ -7392,10 +7132,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7423,10 +7161,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7453,10 +7189,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7483,10 +7217,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7513,9 +7245,7 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7543,10 +7273,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7573,10 +7301,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Superior articular facet",
@@ -7603,10 +7329,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7633,10 +7357,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7663,9 +7385,7 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7693,44 +7413,12 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
             "Superior articular facet",
-            "Transverse process",
-            "Vertebral foramen"
-          ]
-        },
-        {
-          "image": "images/w4_p10_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            844,
-            1150,
-            1024,
-            1178
-          ],
-          "answer": "General cervical",
-          "view_label_pool": [
-            "Anterior tubercle",
-            "Atlas",
-            "Axis",
-            "Bifid spinous process",
-            "Body",
-            "Dens/odontoid process",
-            "Inferior articular facet",
-            "Lamina",
-            "Lamina Vertebral foramen",
-            "Pedicle",
-            "Posterior tubercle",
-            "Spinous process",
-            "Superior articular facet",
-            "Transverse foramen",
             "Transverse process",
             "Vertebral foramen"
           ]
@@ -7752,10 +7440,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7782,10 +7468,8 @@
             "Axis",
             "Bifid spinous process",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7813,10 +7497,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Posterior tubercle",
             "Spinous process",
             "Superior articular facet",
@@ -7842,10 +7524,8 @@
             "Axis",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7873,10 +7553,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7903,10 +7581,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7932,10 +7608,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Posterior tubercle",
             "Spinous process",
@@ -7963,10 +7637,8 @@
             "Bifid spinous process",
             "Body",
             "Dens/odontoid process",
-            "General cervical",
             "Inferior articular facet",
             "Lamina",
-            "Lamina Vertebral foramen",
             "Pedicle",
             "Spinous process",
             "Superior articular facet",
@@ -7991,100 +7663,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
-            "Spinous process",
-            "Superior articular coastal facet",
-            "Superior articular facet",
-            "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
-            "Transverse costal facet",
-            "Vertebral foramen",
-            "facet"
-          ]
-        },
-        {
-          "image": "images/w4_p11_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            45,
-            1045,
-            235,
-            1110
-          ],
-          "answer": "Superior articular coastal facet",
-          "view_label_pool": [
-            "Body",
-            "Intervertebral foramen",
-            "Lamina",
-            "Pedicle",
-            "Pedicle Body",
             "Spinous process",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
-            "Transverse process",
-            "Vertebral foramen",
-            "facet"
-          ]
-        },
-        {
-          "image": "images/w4_p11_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            110,
-            1111,
-            234,
-            1139
-          ],
-          "answer": "Transverse",
-          "view_label_pool": [
-            "Body",
-            "Intervertebral foramen",
-            "Lamina",
-            "Pedicle",
-            "Pedicle Body",
-            "Spinous process",
-            "Superior articular coastal facet",
-            "Superior articular facet",
-            "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse costal facet",
-            "Transverse process",
-            "Vertebral foramen",
-            "facet"
-          ]
-        },
-        {
-          "image": "images/w4_p11_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            144,
-            497,
-            227,
-            574
-          ],
-          "answer": "Pedicle Body",
-          "view_label_pool": [
-            "Body",
-            "Intervertebral foramen",
-            "Lamina",
-            "Pedicle",
-            "Spinous process",
-            "Superior articular coastal facet",
-            "Superior articular facet",
-            "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
-            "Transverse costal facet",
-            "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8102,42 +7685,9 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
-            "Transverse costal facet",
-            "Transverse process",
-            "Vertebral foramen",
-            "facet"
-          ]
-        },
-        {
-          "image": "images/w4_p11_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            181,
-            1016,
-            235,
-            1044
-          ],
-          "answer": "facet",
-          "view_label_pool": [
-            "Body",
-            "Intervertebral foramen",
-            "Lamina",
-            "Pedicle",
-            "Pedicle Body",
-            "Spinous process",
-            "Superior articular coastal facet",
-            "Superior articular facet",
-            "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
             "Vertebral foramen"
@@ -8159,16 +7709,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8187,44 +7732,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
-            "Vertebral foramen",
-            "facet"
-          ]
-        },
-        {
-          "image": "images/w4_p11_v1.png",
-          "width_px": 1650,
-          "height_px": 1275,
-          "bbox_px": [
-            698,
-            796,
-            1013,
-            824
-          ],
-          "answer": "Thoracic Vertebrae (T1-T12)",
-          "view_label_pool": [
-            "Body",
-            "Intervertebral foramen",
-            "Lamina",
-            "Pedicle",
-            "Pedicle Body",
-            "Spinous process",
-            "Superior articular coastal facet",
-            "Superior articular facet",
-            "Thoracic",
-            "Transverse",
-            "Transverse costal facet",
-            "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8243,16 +7755,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8271,16 +7778,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8299,16 +7801,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8326,17 +7823,12 @@
             "Body",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8354,17 +7846,12 @@
             "Body",
             "Intervertebral foramen",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8382,17 +7869,12 @@
             "Body",
             "Intervertebral foramen",
             "Lamina",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -8411,16 +7893,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
             "Spinous process",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
-            "Transverse process",
-            "facet"
+            "Transverse process"
           ]
         },
         {
@@ -8439,16 +7916,11 @@
             "Intervertebral foramen",
             "Lamina",
             "Pedicle",
-            "Pedicle Body",
-            "Superior articular coastal facet",
             "Superior articular facet",
             "Thoracic",
-            "Thoracic Vertebrae (T1-T12)",
-            "Transverse",
             "Transverse costal facet",
             "Transverse process",
-            "Vertebral foramen",
-            "facet"
+            "Vertebral foramen"
           ]
         },
         {
@@ -9128,21 +8600,7 @@
           "height_px": 122,
           "bbox_px": null,
           "answer": "Stratified squamous",
-          "view_label_pool": [
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_02.png",
@@ -9150,21 +8608,7 @@
           "height_px": 122,
           "bbox_px": null,
           "answer": "Simple squamous",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_03.png",
@@ -9172,21 +8616,7 @@
           "height_px": 122,
           "bbox_px": null,
           "answer": "Simple columnar",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_04.png",
@@ -9194,21 +8624,7 @@
           "height_px": 122,
           "bbox_px": null,
           "answer": "Multipolar neurons",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_05.png",
@@ -9216,21 +8632,7 @@
           "height_px": 122,
           "bbox_px": null,
           "answer": "Pseudostratified ciliated columnar",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_06.png",
@@ -9238,21 +8640,7 @@
           "height_px": 125,
           "bbox_px": null,
           "answer": "Adipose",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_07.png",
@@ -9260,21 +8648,7 @@
           "height_px": 125,
           "bbox_px": null,
           "answer": "Skeletal muscle",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_08.png",
@@ -9282,21 +8656,7 @@
           "height_px": 125,
           "bbox_px": null,
           "answer": "Areolar",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_09.png",
@@ -9304,21 +8664,7 @@
           "height_px": 125,
           "bbox_px": null,
           "answer": "Compact bone",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_10.png",
@@ -9326,21 +8672,7 @@
           "height_px": 125,
           "bbox_px": null,
           "answer": "Blood",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_11.png",
@@ -9348,21 +8680,7 @@
           "height_px": 142,
           "bbox_px": null,
           "answer": "Smooth muscle",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Hyaline cartilage",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_12.png",
@@ -9370,21 +8688,7 @@
           "height_px": 142,
           "bbox_px": null,
           "answer": "Hyaline cartilage",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Cardiac muscle",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_13.png",
@@ -9392,21 +8696,7 @@
           "height_px": 142,
           "bbox_px": null,
           "answer": "Cardiac muscle",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Simple cuboidal"
-          ]
+          "view_label_pool": []
         },
         {
           "image": "images/tissue_14.png",
@@ -9414,21 +8704,7 @@
           "height_px": 142,
           "bbox_px": null,
           "answer": "Simple cuboidal",
-          "view_label_pool": [
-            "Stratified squamous",
-            "Simple squamous",
-            "Simple columnar",
-            "Multipolar neurons",
-            "Pseudostratified ciliated columnar",
-            "Adipose",
-            "Skeletal muscle",
-            "Areolar",
-            "Compact bone",
-            "Blood",
-            "Smooth muscle",
-            "Hyaline cartilage",
-            "Cardiac muscle"
-          ]
+          "view_label_pool": []
         }
       ]
     }
